@@ -4,21 +4,20 @@
 
 ![Profile](./images/profile_pic.png)
 
-**Turning complex data into actionable insights using AI/ML & Big Data.**  
+**Turning complex data into actionable insights using AI/ML, Big Data, and data-driven creativity.**  
 > *“The more you give, the more you rise—both for others and for yourself.”*
 
 ---
 
-## 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=dark" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-E34F26?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
+## 🛠️ Technical Skills
+
+**Programming & Data:** Python (Pandas, NumPy, Scikit-Learn), SQL, R  
+**Machine Learning / AI:** Supervised Learning, Model Evaluation, Cross-Validation, Explainable AI  
+**Cloud & Big Data:** AWS (EC2, S3), Hadoop, MapReduce, Oozie  
+**ETL & Pipelines:** Data Ingestion, Cleaning, Transformation, Workflow Orchestration  
+**Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn  
+**Tools & Productivity:** Git/GitHub, Jupyter, VS Code, Linux/Ubuntu, Jira
+
 
 ---
 
@@ -27,29 +26,47 @@
 <details>
 <summary><strong>Business Data Analyst Intern (AI/ML-Focused) | Thaddeus Resource Center</strong></summary>
 
-- Built ML-ready datasets by cleaning, integrating, and structuring multi-source data  
-- Automated predictive dashboards in Power BI for forecasting & insights  
-- Engineered scalable feature pipelines for ML workflows  
-- Reduced manual reporting effort by **35%** via Python & Power Automate  
-- Partnered with cross-functional teams to align AI/ML insights with business strategy  
+- Built ML-ready datasets from multiple sources, enabling accurate predictive analytics  
+- Automated Power BI dashboards for trend analysis and forecasting  
+- Engineered feature pipelines to scale ML workflows efficiently  
+- Reduced manual reporting by **35%** via Python and Power Automate  
+- Collaborated with cross-functional teams to align analytics with business strategy  
 
 </details>
 
 <details>
 <summary><strong>Career Development Peer Assistant (Data Insights) | NJIT</strong></summary>
 
-- Conducted EDA to uncover trends, patterns, and optimization opportunities  
-- Automated KPI reporting and dashboards using Python & Power BI  
-- Delivered actionable, data-driven insights to stakeholders  
+- Conducted exploratory data analysis (EDA) to uncover trends and optimizations  
+- Automated KPI reporting dashboards in Python & Power BI  
+- Delivered actionable insights to support student development initiatives  
 
 </details>
 
 <details>
 <summary><strong>Office Assistant (Operational Analytics) | NJIT</strong></summary>
 
-- Maintained dashboards for 150+ staff performance metrics  
-- Identified bottlenecks and optimized processes  
-- Standardized reporting systems to improve data accuracy  
+- Maintained dashboards for 150+ staff performance and operational metrics  
+- Identified bottlenecks and improved reporting accuracy  
+- Standardized processes to enhance operational efficiency  
+
+</details>
+
+<details>
+<summary><strong>Mathematics Tutor | NJIT</strong></summary>
+
+- Guided students through complex mathematical concepts via tailored sessions  
+- Assisted with homework and exam preparation to improve academic outcomes  
+- Fostered a collaborative learning environment that enhanced student engagement  
+
+</details>
+
+<details>
+<summary><strong>Front Desk Attendant | NJIT</strong></summary>
+
+- Optimized front desk operations, boosting efficiency by **30%**  
+- Implemented ID verification and equipment tracking protocols  
+- Improved customer satisfaction with effective communication and service  
 
 </details>
 
@@ -60,49 +77,141 @@
 <details>
 <summary><strong>Flight Data Analysis Pipeline</strong></summary>
 
-![Flight Data](./images/flight_data_pipeline.png)
-
 **Tech:** AWS, Hadoop, MapReduce, Python, SQL, ETL  
 - Processed large-scale flight datasets using Hadoop & MapReduce  
-- Built feature aggregation pipelines for high-value insights  
-- Optimized distributed workflows on AWS for big data analytics  
+- Built feature aggregation pipelines for actionable insights  
+- Designed optimized distributed workflows on AWS for analytics  
 
-[💻 View Project Repo](https://github.com/yourusername/flight-data-analysis)  
 
 </details>
 
 <details>
 <summary><strong>Explainable AI Research</strong></summary>
 
-![Explainable AI](./images/explainable_ai.png)
+**Tech:** Python, scikit-learn, Pandas, Jupyter, Matplotlib, Seaborn  
+- Built classification & regression models with explainable AI  
+- Visualized model performance and assessed bias  
+- Delivered actionable insights through interactive dashboards  
 
-**Tech:** Python (scikit-learn, Pandas), Jupyter, Matplotlib, Seaborn  
-- Trained & evaluated classification and regression models  
-- Applied explainable AI techniques to interpret models & assess bias  
-- Visualized model performance through interactive dashboards  
-
-[💻 View Project Repo](https://github.com/yourusername/explainable-ai)  
 
 </details>
 
 <details>
-<summary><strong>Optional: Interactive GIF / Dashboard Demo</strong></summary>
+<summary><strong>Chess Games Dataset Analysis</strong></summary>
 
-![Workflow GIF](./images/ml_pipeline.gif)  
+**Tech:** Python, Data Mining, Data Visualization, Feature Engineering
+- Applied Logistic Regression, Random Forest, Gradient Boosting, CatBoost, and XGBoost to predict chess game outcomes  
+- Handled class imbalance using SMOTE and performed feature engineering  
+- Developed comprehensive visualizations for game analysis  
+ 
 
-> Show ML pipelines, dashboards, or model outputs in action  
+</details>
+
+<details>
+<summary><strong>Computer Steering WRF-Solar-BNL</strong></summary>
+
+**Tech:** Data Analysis, Ubuntu, Data Visualization, Teamwork 
+- Enhanced WRF-Solar model for solar irradiance analysis  
+- Recommended optimal solar grid locations using statistical and visual analysis  
+- Supported renewable energy efficiency improvements  
+
+
+</details>
+
+<details>
+<summary><strong>New York Housing Market Prices</strong></summary>
+
+**Tech:** Python, Matplotlib, Dashboards, Data Visualization, React.js  
+- Analyzed Kaggle dataset to identify price drivers and improve prediction accuracy by 15%  
+- Designed interactive dashboards to support decision-making  
+
+
+</details>
+
+<details>
+<summary><strong>Queue Theory and Simulation</strong></summary>
+
+**Tech:** Microsoft Excel, Management, Teamwork, Business Modeling
+- Simulated queue and inventory management processes in Excel  
+- Applied Monte Carlo methods to optimize KPIs  
+  
+
+</details>
+
+<details>
+<summary><strong>Healthcare Result Prediction Model</strong></summary>
+
+**Tech:** Python, Data Preprocessing, Data Visualization 
+- Built predictive models using Logistic Regression, Random Forest, and Decision Trees  
+- Achieved **99% accuracy** with Random Forest  
+- Improved data processing efficiency and model evaluation using Confusion Matrices  
+ 
+
+</details>
+
+<details>
+<summary><strong>Other Academic & High School Projects</strong></summary>
+
+- Big Data Analytics Overview (Hadoop, Spark, Python frameworks)  
+- SUPW Project: Taught underprivileged children via structured lessons  
+- Integrated Science Project (ISPC): Built autonomous plant-watering robot; won **Science Integrators Award 2019**  
 
 </details>
 
 ---
 
-## 🎓 Education
+## 🏆 Achievements & Certifications
 
-**New Jersey Institute of Technology** – Newark, NJ  
-**B.Sc. in Data Science | Minor: Business**  
-GPA: 3.6 | Dean’s List (All Semesters) | Merit Scholarship Recipient  
+- **Databases and SQL for Data Science with Python (Honors)** – IBM | Coursera, Oct 2024  
+- **Foundations of Project Management** – Coursera, Jun 2024  
+- **Supply Chain Management** – Coursera, Jun 2024  
+- **Business Analysis Modeling Skills & Techniques** – Udemy, Jan 2023  
+- **Data Science Bootcamp** – Udemy, Aug 2021  
+- **Ethical Hacking** – From Scratch, Sep 2020  
+- **YWCC Mentoring Recognition Award** – NJIT, Apr 2022  
+- **Staff Recognition of the Year** – NJIT, Apr 2024  
+- **ISPC 2019 Science Integrators Award** – SNKansagra School, 2019  
+- **Academic & Sports Awards**: Shuttle Smash Badminton Tournament 1st Place, Eagle Eye Award, Amartya Sen Award  
 
 ---
+
+## 🤝 Volunteer Work
+
+<details> <summary><strong>🤝 Volunteer Work</strong></summary>
+
+- **Student Volunteer – Big Brothers Big Sisters of America**
+Assisted in mentoring and guiding youth, fostering growth and confidence in educational and social skills.
+
+- **Career Fair Volunteer – NJIT**
+Supported event coordination, managed booths, and guided attendees, ensuring smooth operations and positive experiences.
+
+- **Secretary, Business Masterminds Club – NJIT**
+Organized club meetings, maintained documentation, and facilitated communication among members for strategic initiatives.
+
+- **Treasurer, Models of UN Club – NJIT**
+Managed budgets, tracked expenses, and ensured financial transparency for club events and activities.
+
+- **Team Leader, SUPW Project – SNKansagra School**
+Led a team visiting RMC schools to teach underprivileged children, creating engaging educational sessions and promoting learning, empathy, and community development.
+
+- **Manager, Swachh Bharat Abhiyan – Rajkot Municipal Corporation**
+Led cleanliness campaigns, coordinated volunteers, and ensured proper utilization of government resources to improve public hygiene awareness.
+
+- **Covid-19 Squad Leader – The Galaxy Education System**
+Oversaw temporary school hospital operations, coordinated patient flow, and ensured availability of medical equipment while supporting healthcare staff.
+
+</details>
+
+---
+
+## 📚 Publications
+
+- **Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models with ML Techniques** – NJIT, Dec 2024  
+  - Optimized WRF-Solar model using Bayesian Optimization, D3QN, and Stochastic Gradient Approaches  
+  - Achieved scalable, fault-tolerant solar irradiance forecasting pipelines  
+
+---
+
 
 ## 🔗 Connect with Me
 
