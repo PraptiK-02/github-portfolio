@@ -11,3 +11,8 @@ logo: Headshot.jpg
 show_downloads: true
 theme: jekyll-theme-midnight
 
+
+# At the bottom of _config.yml
+sass:
+  style: compressed
+
