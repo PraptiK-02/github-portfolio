@@ -1,64 +1,98 @@
-# 👋 Hi, I am Prapti Kansagra.
-**Data Scientist | AI/ML Enthusiast | Big Data Practitioner**
+<!-- ================= Dark Mode Interactive Portfolio ================ -->
 
-I transform complex data into actionable insights using **data science** and **AI/ML**. I specialize in building ML-ready datasets, feature engineering pipelines, and performing exploratory data analysis to deliver explainable, reproducible AI/ML solutions for real-world problems.  
+# 🌌 Prapti Kansagra | Data Scientist & AI/ML Enthusiast
 
+![Profile](./images/profile_pic.png)
+
+**Turning complex data into actionable insights using AI/ML & Big Data.**  
 > *“The more you give, the more you rise—both for others and for yourself.”*
 
 ---
 
-## 🛠️ Technical Skills
-
-**Programming & Data:** Python (Pandas, NumPy, Scikit-Learn), SQL, R  
-**Machine Learning / AI:** Supervised Learning, Cross-Validation, Model Evaluation Metrics, Explainable AI  
-**Cloud & Big Data:** AWS (EC2, S3), Hadoop, MapReduce, Oozie  
-**ETL & Pipelines:** Data Ingestion, Cleaning, Transformation, Workflow Orchestration  
-**Visualization & BI:** Power BI, Tableau, Seaborn, Matplotlib  
-**Tools & Productivity:** Git/GitHub, Jupyter, VS Code, Linux/Ubuntu, Jira  
+## 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=dark" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-E34F26?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Professional Experience
 
-### **Business Data Analyst Intern (AI/ML-Focused)**  
-*Thaddeus Resource Center, CA – Remote | Aug 2025 – Present*  
+<details>
+<summary><strong>Business Data Analyst Intern (AI/ML-Focused) | Thaddeus Resource Center</strong></summary>
+
 - Built ML-ready datasets by cleaning, integrating, and structuring multi-source data  
-- Automated predictive analytics dashboards in Power BI for forecasting  
-- Engineered scalable feature extraction and transformation pipelines for ML workflows  
-- Reduced manual reporting effort by **35%** via Python and Power Automate  
+- Automated predictive dashboards in Power BI for forecasting & insights  
+- Engineered scalable feature pipelines for ML workflows  
+- Reduced manual reporting effort by **35%** via Python & Power Automate  
 - Partnered with cross-functional teams to align AI/ML insights with business strategy  
 
-### **Career Development Peer Assistant (Data Insights)**  
-*Career Development Services, NJIT – Newark, NJ | Sep 2024 – May 2025*  
-- Conducted exploratory data analyses to uncover patterns and optimization opportunities  
-- Automated KPI reporting and dashboards using Python and Power BI  
+</details>
+
+<details>
+<summary><strong>Career Development Peer Assistant (Data Insights) | NJIT</strong></summary>
+
+- Conducted EDA to uncover trends, patterns, and optimization opportunities  
+- Automated KPI reporting and dashboards using Python & Power BI  
 - Delivered actionable, data-driven insights to stakeholders  
 
-### **Office Assistant (Operational Analytics)**  
-*Office of Residence Life, NJIT – Newark, NJ | Jan 2023 – May 2025*  
-- Maintained performance dashboards for 150+ staff, tracking operational metrics  
-- Performed trend analyses to identify bottlenecks and refine processes  
-- Standardized reporting and data-entry systems, enhancing data accuracy and reliability  
+</details>
+
+<details>
+<summary><strong>Office Assistant (Operational Analytics) | NJIT</strong></summary>
+
+- Maintained dashboards for 150+ staff performance metrics  
+- Identified bottlenecks and optimized processes  
+- Standardized reporting systems to improve data accuracy  
+
+</details>
 
 ---
 
-## 📂 Selected Projects
+## 📂 Featured Projects
 
-### **Flight Data Analysis Pipeline**  
-*Tech: AWS, Hadoop, MapReduce, Python, SQL, ETL*  
-![Flight Data Pipeline](./images/flight_data_pipeline.png)  
-- Processed large-scale flight datasets using Hadoop and MapReduce  
-- Built feature aggregation and transformation pipelines for high-value insights  
-- Designed optimized distributed workflows on AWS for large-scale analytics  
+<details>
+<summary><strong>Flight Data Analysis Pipeline</strong></summary>
 
-### **Explainable AI Research (Machine Learning Modeling)**  
-*Tech: Python (scikit-learn, Pandas), Jupyter, Matplotlib, Seaborn*  
-![Explainable AI](./images/explainable_ai.png)  
-- Trained and evaluated classification and regression models  
-- Applied explainable AI techniques to interpret model behavior and assess bias  
+![Flight Data](./images/flight_data_pipeline.png)
+
+**Tech:** AWS, Hadoop, MapReduce, Python, SQL, ETL  
+- Processed large-scale flight datasets using Hadoop & MapReduce  
+- Built feature aggregation pipelines for high-value insights  
+- Optimized distributed workflows on AWS for big data analytics  
+
+[💻 View Project Repo](https://github.com/yourusername/flight-data-analysis)  
+
+</details>
+
+<details>
+<summary><strong>Explainable AI Research</strong></summary>
+
+![Explainable AI](./images/explainable_ai.png)
+
+**Tech:** Python (scikit-learn, Pandas), Jupyter, Matplotlib, Seaborn  
+- Trained & evaluated classification and regression models  
+- Applied explainable AI techniques to interpret models & assess bias  
 - Visualized model performance through interactive dashboards  
 
-> 💡 *Tip:* You can replace the images above with GIFs or screenshots of dashboards, charts, or pipeline diagrams for a stronger visual impact.
+[💻 View Project Repo](https://github.com/yourusername/explainable-ai)  
+
+</details>
+
+<details>
+<summary><strong>Optional: Interactive GIF / Dashboard Demo</strong></summary>
+
+![Workflow GIF](./images/ml_pipeline.gif)  
+
+> Show ML pipelines, dashboards, or model outputs in action  
+
+</details>
 
 ---
 
@@ -70,8 +104,21 @@ GPA: 3.6 | Dean’s List (All Semesters) | Merit Scholarship Recipient
 
 ---
 
-## 📷 Profile Picture & Other Images
+## 🔗 Connect with Me
 
-- Add a professional headshot at the top of your README for a personal touch:  
-```markdown
-![Prapti Kansagra](./images/profile_pic.png)
+<p align="left">
+  <a href="https://www.linkedin.com/in/prapti-kansagra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+1234567890">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yourartpage" target="_blank">
+    <img src="https://img.shields.io/badge/Art%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
