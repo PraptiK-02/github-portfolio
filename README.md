@@ -210,7 +210,7 @@ and recruiters to ensure smooth operations and a professional event experience.
 </details>
 
 <details>
-<summary><strong>Secretary — Business Masterminds Club @ NJIT</strong></summary>
+<summary><strong>Secretary — Business Masterminds Club — New Jersey Institute of Technology</strong></summary>
 
 Maintained meeting records, coordinated communications, and supported planning
 of academic and professional development initiatives for club members.
@@ -218,7 +218,7 @@ of academic and professional development initiatives for club members.
 </details>
 
 <details>
-<summary><strong>Treasurer — Models of United Nations Club @ NJIT</strong></summary>
+<summary><strong>Treasurer — Models of United Nations Club — New Jersey Institute of Technology</strong></summary>
 
 Managed budgeting, expense tracking, and financial reporting to ensure
 transparent and responsible allocation of funds for events and conferences.
