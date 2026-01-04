@@ -1,26 +1,35 @@
-<!-- ================= Dark Mode Interactive Portfolio ================ -->
+<!-- ================= Dark-Mode Optimized GitHub Portfolio ================= -->
 
-# 🌌 Prapti Kansagra | Data Scientist & AI/ML Enthusiast
+<table>
+<tr>
+<td width="180">
 
-<p align="center">
-  <img src="Headshot.jpg" width="180" style="border-radius: 50%;" alt="Profile Headshot"/>
-</p>
+<img src="Headshot.jpg" width="160" style="border-radius:50%" />
 
+</td>
+<td>
 
-**Turning complex data into actionable insights using AI/ML, Big Data, and data-driven creativity.**  
-> *“Generosity compounds—what you give to others lifts you higher in return.”*
+# Prapti Kansagra  
+**Data Scientist | AI & ML | Big Data**
+
+Turning complex, real-world data into scalable and explainable AI/ML solutions.
+
+<i>“Generosity compounds—what you give to others lifts you higher in return.”</i>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming & Data:** Python (Pandas, NumPy, Scikit-Learn), SQL, R  
-**Machine Learning / AI:** Supervised Learning, Model Evaluation, Cross-Validation, Explainable AI  
-**Cloud & Big Data:** AWS (EC2, S3), Hadoop, MapReduce, Oozie  
-**ETL & Pipelines:** Data Ingestion, Cleaning, Transformation, Workflow Orchestration  
-**Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn  
-**Tools & Productivity:** Git/GitHub, Jupyter, VS Code, Linux/Ubuntu, Jira
-
+- **Programming & Data:** Python (Pandas, NumPy, Scikit-Learn), SQL, R  
+- **Machine Learning / AI:** Supervised Learning, Model Evaluation, Explainable AI  
+- **Cloud & Big Data:** AWS (EC2, S3), Hadoop, MapReduce, Oozie  
+- **ETL & Pipelines:** Data Ingestion, Cleaning, Feature Engineering, Workflow Orchestration  
+- **Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Tools:** Git/GitHub, Jupyter, VS Code, Linux/Ubuntu, Jira  
 
 ---
 
@@ -29,266 +38,146 @@
 <details>
 <summary><strong>Business Data Analyst Intern (AI/ML-Focused) | Thaddeus Resource Center</strong></summary>
 
-- Built ML-ready datasets from multiple sources, enabling accurate predictive analytics  
-- Automated Power BI dashboards for trend analysis and forecasting  
-- Engineered feature pipelines to scale ML workflows efficiently  
-- Reduced manual reporting by **35%** via Python and Power Automate  
-- Collaborated with cross-functional teams to align analytics with business strategy  
+- Built ML-ready datasets across multiple sources to support predictive analytics  
+- Automated Power BI dashboards for forecasting and trend analysis  
+- Engineered scalable feature pipelines for ML workflows  
+- Reduced manual reporting by **35%** using Python and Power Automate  
+- Partnered with stakeholders to align analytics with strategic goals  
 
 </details>
 
 <details>
 <summary><strong>Career Development Peer Assistant (Data Insights) | NJIT</strong></summary>
 
-- Conducted exploratory data analysis (EDA) to uncover trends and optimizations  
-- Automated KPI reporting dashboards in Python & Power BI  
-- Delivered actionable insights to support student development initiatives  
+- Performed exploratory data analysis to uncover trends and optimization opportunities  
+- Automated KPI dashboards using Python and Power BI  
+- Delivered actionable insights supporting student success initiatives  
 
 </details>
 
 <details>
 <summary><strong>Office Assistant (Operational Analytics) | NJIT</strong></summary>
 
-- Maintained dashboards for 150+ staff performance and operational metrics  
-- Identified bottlenecks and improved reporting accuracy  
-- Standardized processes to enhance operational efficiency  
+- Designed dashboards tracking performance metrics for 150+ staff members  
+- Identified operational bottlenecks and improved reporting accuracy  
+- Standardized data workflows to enhance efficiency  
 
 </details>
 
 <details>
 <summary><strong>Mathematics Tutor | NJIT</strong></summary>
 
-- Guided students through complex mathematical concepts via tailored sessions  
-- Assisted with homework and exam preparation to improve academic outcomes  
-- Fostered a collaborative learning environment that enhanced student engagement  
+- Delivered personalized tutoring sessions to clarify complex mathematical concepts  
+- Supported exam preparation and homework mastery  
+- Fostered an engaging, collaborative learning environment  
 
 </details>
 
 <details>
 <summary><strong>Front Desk Attendant | NJIT</strong></summary>
 
-- Optimized front desk operations, boosting efficiency by **30%**  
-- Implemented ID verification and equipment tracking protocols  
-- Improved customer satisfaction with effective communication and service  
+- Improved operational efficiency by **30%** through process optimization  
+- Implemented ID verification and equipment tracking systems  
+- Enhanced customer satisfaction through effective communication  
 
 </details>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 <details>
 <summary><strong>Flight Data Analysis Pipeline</strong></summary>
 
-**Tech:** AWS, Hadoop, MapReduce, Python, SQL, ETL  
-- Processed large-scale flight datasets using Hadoop & MapReduce  
-- Built feature aggregation pipelines for actionable insights  
-- Designed optimized distributed workflows on AWS for analytics  
-
+**Tech:** AWS, Hadoop, MapReduce, Python, SQL  
+- Processed large-scale flight datasets using distributed computing  
+- Built feature aggregation pipelines for analytics  
+- Designed optimized workflows on AWS  
 
 </details>
 
 <details>
 <summary><strong>Explainable AI Research</strong></summary>
 
-**Tech:** Python, scikit-learn, Pandas, Jupyter, Matplotlib, Seaborn  
-- Built classification & regression models with explainable AI  
-- Visualized model performance and assessed bias  
-- Delivered actionable insights through interactive dashboards  
-
+**Tech:** Python, scikit-learn, Pandas  
+- Trained classification and regression models  
+- Applied explainability techniques to assess bias and interpret behavior  
+- Communicated results through visual dashboards  
 
 </details>
 
 <details>
 <summary><strong>Chess Games Dataset Analysis</strong></summary>
 
-**Tech:** Python, Data Mining, Data Visualization, Feature Engineering
-- Applied Logistic Regression, Random Forest, Gradient Boosting, CatBoost, and XGBoost to predict chess game outcomes  
-- Handled class imbalance using SMOTE and performed feature engineering  
-- Developed comprehensive visualizations for game analysis  
- 
-
-</details>
-
-<details>
-<summary><strong>Computer Steering WRF-Solar-BNL</strong></summary>
-
-**Tech:** Data Analysis, Ubuntu, Data Visualization, Teamwork 
-- Enhanced WRF-Solar model for solar irradiance analysis  
-- Recommended optimal solar grid locations using statistical and visual analysis  
-- Supported renewable energy efficiency improvements  
-
-
-</details>
-
-<details>
-<summary><strong>New York Housing Market Prices</strong></summary>
-
-**Tech:** Python, Matplotlib, Dashboards, Data Visualization, React.js  
-- Analyzed Kaggle dataset to identify price drivers and improve prediction accuracy by 15%  
-- Designed interactive dashboards to support decision-making  
-
-
-</details>
-
-<details>
-<summary><strong>Queue Theory and Simulation</strong></summary>
-
-**Tech:** Microsoft Excel, Management, Teamwork, Business Modeling
-- Simulated queue and inventory management processes in Excel  
-- Applied Monte Carlo methods to optimize KPIs  
-  
+**Tech:** Python, Data Mining, SMOTE, XGBoost  
+- Predicted chess outcomes using multiple ML models  
+- Addressed class imbalance and engineered new features  
+- Visualized insights for strategic gameplay analysis  
 
 </details>
 
 <details>
 <summary><strong>Healthcare Result Prediction Model</strong></summary>
 
-**Tech:** Python, Data Preprocessing, Data Visualization 
-- Built predictive models using Logistic Regression, Random Forest, and Decision Trees  
-- Achieved **99% accuracy** with Random Forest  
-- Improved data processing efficiency and model evaluation using Confusion Matrices  
- 
-
-</details>
-
-<details>
-<summary><strong>Big Data Analytics Overview</strong></summary>
-
-**Tech:** Hadoop, Spark, Python, Big Data Concepts  
-- Presented the 5 V’s of Big Data: Volume, Velocity, Variety, Veracity, and Value  
-- Demonstrated distributed data processing using Hadoop and Spark  
-- Analyzed challenges such as scalability, data privacy, and storage constraints  
-- Explored future trends including real-time analytics and AI-driven data pipelines  
-
-</details>
-
-<details>
-<summary><strong>SUPW Project</strong></summary>
-
-**Tech:** Leadership, Community Engagement, Teaching  
-- Conducted annual visits to RMC schools to teach underprivileged children  
-- Designed interactive learning sessions to increase engagement and retention  
-- Built leadership, empathy, teamwork, and communication skills through hands-on instruction  
+**Tech:** Python, Random Forest, Logistic Regression  
+- Built predictive classification models  
+- Achieved **99% accuracy** using Random Forest  
+- Improved evaluation with Confusion Matrices  
 
 </details>
 
 <details>
 <summary><strong>Integrated Science Project (ISPC)</strong></summary>
 
-**Tech:** Robotics, Automation, Applied Science  
-- Built an automated robot to water crops and supply nutrients to agricultural fields  
-- Optimized irrigation scheduling to reduce manual labor and improve efficiency  
-- Awarded **ISPC 2019 Science Integrators Award** for interdisciplinary innovation  
+**Tech:** Robotics, Automation  
+- Built an automated irrigation robot for agricultural efficiency  
+- Reduced manual labor through intelligent scheduling  
+- Awarded **ISPC 2019 Science Integrators Award**  
 
 </details>
-
-
-
----
-
-## 🏆 Achievements & Certifications
-
-- **Databases and SQL for Data Science with Python (Honors)** – IBM | Coursera, Oct 2024  
-- **Foundations of Project Management** – Coursera, Jun 2024  
-- **Supply Chain Management** – Coursera, Jun 2024  
-- **Business Analysis Modeling Skills & Techniques** – Udemy, Jan 2023  
-- **Data Science Bootcamp** – Udemy, Aug 2021  
-- **Ethical Hacking** – From Scratch, Sep 2020  
-- **YWCC Mentoring Recognition Award** – NJIT, Apr 2022  
-- **Staff Recognition of the Year** – NJIT, Apr 2024  
-- **ISPC 2019 Science Integrators Award** – SNKansagra School, 2019  
-- **Academic & Sports Awards**: Shuttle Smash Badminton Tournament 1st Place, Eagle Eye Award, Amartya Sen Award  
 
 ---
 
 ## 🤝 Volunteer Work
 
 <details>
-<summary><strong>Student Volunteer — Big Brothers Big Sisters of America</strong></summary>
-
-- Supported youth mentorship initiatives by assisting children in building confidence, social skills, and academic engagement  
-- Contributed to a positive learning environment through consistent guidance and support  
-
-</details>
-
-<details>
-<summary><strong>Career Fair Volunteer — NJIT</strong></summary>
-
-- Assisted with event coordination and booth management during large-scale career fairs  
-- Guided students and recruiters to ensure smooth operations and a professional experience  
-
-</details>
-
-<details>
-<summary><strong>Secretary — Business Masterminds Club (NJIT)</strong></summary>
-
-- Organized meeting agendas, maintained documentation, and managed internal communications  
-- Supported strategic planning and coordination of club initiatives  
-
-</details>
-
-<details>
-<summary><strong>Treasurer — Models of United Nations Club (NJIT)</strong></summary>
-
-- Managed budgeting, expense tracking, and financial reporting for club activities  
-- Ensured transparency and responsible allocation of funds for events  
-
-</details>
-
-<details>
-<summary><strong>Team Leader — SUPW Project (SNKansagra School)</strong></summary>
-
-- Led a team visiting RMC schools to teach underprivileged children  
-- Designed engaging educational sessions to promote learning, empathy, and community development  
-- Strengthened leadership, teamwork, and communication skills through hands-on instruction  
-
-</details>
-
-<details>
-<summary><strong>Manager — Swachh Bharat Abhiyan (Rajkot Municipal Corporation)</strong></summary>
-
-- Led cleanliness and hygiene awareness campaigns across local communities  
-- Coordinated volunteers and ensured effective use of government-provided resources  
-
-</details>
-
-<details>
 <summary><strong>Covid-19 Squad Leader — The Galaxy Education System</strong></summary>
 
-- Managed temporary hospital operations during the COVID-19 pandemic  
-- Coordinated patient flow, medical supplies, and equipment availability  
-- Supported healthcare staff to ensure efficient and safe operations  
+- Coordinated patient flow and medical equipment in a temporary COVID hospital  
+- Supported healthcare staff during crisis operations  
 
 </details>
 
+<details>
+<summary><strong>Manager — Swachh Bharat Abhiyan (RMC)</strong></summary>
+
+- Led community cleanliness campaigns  
+- Coordinated volunteers and managed public resources  
+
+</details>
+
+<details>
+<summary><strong>Student Volunteer — Big Brothers Big Sisters of America</strong></summary>
+
+- Supported youth mentorship programs  
+- Encouraged confidence, engagement, and learning  
+
+</details>
 
 ---
 
 ## 📚 Publications
 
-- **Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models with ML Techniques** – NJIT, Dec 2024  
-  - Optimized WRF-Solar model using Bayesian Optimization, D3QN, and Stochastic Gradient Approaches  
-  - Achieved scalable, fault-tolerant solar irradiance forecasting pipelines  
+- **Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models**  
+  *NJIT, Dec 2024*  
+  - Applied Bayesian Optimization and Deep RL techniques  
+  - Built scalable pipelines for renewable energy forecasting  
 
 ---
 
+## 🔗 Connect With Me
 
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/praptikansagra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pkansagra06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+19733077872">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/instant.art.vibes" target="_blank">
-    <img src="https://img.shields.io/badge/Art%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-
+- **LinkedIn:** https://www.linkedin.com/in/praptikansagra  
+- **Email:** pkansagra06@gmail.com  
+- **Phone:** +1 (973) 307-7872  
+- **Art Instagram:** https://www.instagram.com/instant.art.vibes
