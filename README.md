@@ -150,13 +150,36 @@
 </details>
 
 <details>
-<summary><strong>Other Academic & High School Projects</strong></summary>
+<summary><strong>Big Data Analytics Overview</strong></summary>
 
-- Big Data Analytics Overview (Hadoop, Spark, Python frameworks)  
-- SUPW Project: Taught underprivileged children via structured lessons  
-- Integrated Science Project (ISPC): Built autonomous plant-watering robot; won **Science Integrators Award 2019**  
+**Tech:** Hadoop, Spark, Python, Big Data Concepts  
+- Explained the 5 V’s of Big Data: Volume, Velocity, Variety, Veracity, and Value  
+- Demonstrated Hadoop and Spark-based processing frameworks  
+- Discussed real-world challenges including data privacy, scalability, and storage  
+- Explored future trends such as real-time analytics and AI-driven data pipelines  
 
 </details>
+
+<details>
+<summary><strong>SUPW Project</strong></summary>
+
+**Tech:** Leadership, Community Engagement, Teaching  
+- Conducted annual visits to RMC schools to teach underprivileged children  
+- Designed interactive lessons to encourage learning and participation  
+- Developed leadership, teamwork, empathy, and communication skills through hands-on teaching  
+
+</details>
+
+<details>
+<summary><strong>Integrated Science Project (ISPC)</strong></summary>
+
+**Tech:** Robotics, Automation, Applied Science  
+- Built a robot to automatically water crops and supply nutrients to fields  
+- Automated scheduling to improve efficiency and reduce manual labor for farmers  
+- Awarded **ISPC 2019 Science Integrators Award** for innovation and interdisciplinary integration  
+
+</details>
+
 
 ---
 
