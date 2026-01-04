@@ -2,10 +2,13 @@
 
 # 🌌 Prapti Kansagra | Data Scientist & AI/ML Enthusiast
 
-![Profile](./images/profile_pic.png)
+<p align="center">
+  <img src="Headshot.jpg" width="180" style="border-radius: 50%;" alt="Profile Headshot"/>
+</p>
+
 
 **Turning complex data into actionable insights using AI/ML, Big Data, and data-driven creativity.**  
-> *“The more you give, the more you rise—both for others and for yourself.”*
+> *“Generosity compounds—what you give to others lifts you higher in return.”*
 
 ---
 
@@ -274,16 +277,16 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/prapti-kansagra" target="_blank">
+  <a href="https://www.linkedin.com/in/praptikansagra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:pkansagra06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+1234567890">
+  <a href="tel:+19733077872">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yourartpage" target="_blank">
+  <a href="https://www.instagram.com/instant.art.vibes" target="_blank">
     <img src="https://img.shields.io/badge/Art%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
