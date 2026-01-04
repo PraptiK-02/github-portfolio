@@ -153,10 +153,10 @@
 <summary><strong>Big Data Analytics Overview</strong></summary>
 
 **Tech:** Hadoop, Spark, Python, Big Data Concepts  
-- Explained the 5 V’s of Big Data: Volume, Velocity, Variety, Veracity, and Value  
-- Demonstrated Hadoop and Spark-based processing frameworks  
-- Discussed real-world challenges including data privacy, scalability, and storage  
-- Explored future trends such as real-time analytics and AI-driven data pipelines  
+- Presented the 5 V’s of Big Data: Volume, Velocity, Variety, Veracity, and Value  
+- Demonstrated distributed data processing using Hadoop and Spark  
+- Analyzed challenges such as scalability, data privacy, and storage constraints  
+- Explored future trends including real-time analytics and AI-driven data pipelines  
 
 </details>
 
@@ -165,8 +165,8 @@
 
 **Tech:** Leadership, Community Engagement, Teaching  
 - Conducted annual visits to RMC schools to teach underprivileged children  
-- Designed interactive lessons to encourage learning and participation  
-- Developed leadership, teamwork, empathy, and communication skills through hands-on teaching  
+- Designed interactive learning sessions to increase engagement and retention  
+- Built leadership, empathy, teamwork, and communication skills through hands-on instruction  
 
 </details>
 
@@ -174,11 +174,12 @@
 <summary><strong>Integrated Science Project (ISPC)</strong></summary>
 
 **Tech:** Robotics, Automation, Applied Science  
-- Built a robot to automatically water crops and supply nutrients to fields  
-- Automated scheduling to improve efficiency and reduce manual labor for farmers  
-- Awarded **ISPC 2019 Science Integrators Award** for innovation and interdisciplinary integration  
+- Built an automated robot to water crops and supply nutrients to agricultural fields  
+- Optimized irrigation scheduling to reduce manual labor and improve efficiency  
+- Awarded **ISPC 2019 Science Integrators Award** for interdisciplinary innovation  
 
 </details>
+
 
 
 ---
@@ -200,30 +201,64 @@
 
 ## 🤝 Volunteer Work
 
-<details> <summary><strong>🤝 Volunteer Work</strong></summary>
+<details>
+<summary><strong>Student Volunteer — Big Brothers Big Sisters of America</strong></summary>
 
-- **Student Volunteer – Big Brothers Big Sisters of America**
-Assisted in mentoring and guiding youth, fostering growth and confidence in educational and social skills.
-
-- **Career Fair Volunteer – NJIT**
-Supported event coordination, managed booths, and guided attendees, ensuring smooth operations and positive experiences.
-
-- **Secretary, Business Masterminds Club – NJIT**
-Organized club meetings, maintained documentation, and facilitated communication among members for strategic initiatives.
-
-- **Treasurer, Models of UN Club – NJIT**
-Managed budgets, tracked expenses, and ensured financial transparency for club events and activities.
-
-- **Team Leader, SUPW Project – SNKansagra School**
-Led a team visiting RMC schools to teach underprivileged children, creating engaging educational sessions and promoting learning, empathy, and community development.
-
-- **Manager, Swachh Bharat Abhiyan – Rajkot Municipal Corporation**
-Led cleanliness campaigns, coordinated volunteers, and ensured proper utilization of government resources to improve public hygiene awareness.
-
-- **Covid-19 Squad Leader – The Galaxy Education System**
-Oversaw temporary school hospital operations, coordinated patient flow, and ensured availability of medical equipment while supporting healthcare staff.
+- Supported youth mentorship initiatives by assisting children in building confidence, social skills, and academic engagement  
+- Contributed to a positive learning environment through consistent guidance and support  
 
 </details>
+
+<details>
+<summary><strong>Career Fair Volunteer — NJIT</strong></summary>
+
+- Assisted with event coordination and booth management during large-scale career fairs  
+- Guided students and recruiters to ensure smooth operations and a professional experience  
+
+</details>
+
+<details>
+<summary><strong>Secretary — Business Masterminds Club (NJIT)</strong></summary>
+
+- Organized meeting agendas, maintained documentation, and managed internal communications  
+- Supported strategic planning and coordination of club initiatives  
+
+</details>
+
+<details>
+<summary><strong>Treasurer — Models of United Nations Club (NJIT)</strong></summary>
+
+- Managed budgeting, expense tracking, and financial reporting for club activities  
+- Ensured transparency and responsible allocation of funds for events  
+
+</details>
+
+<details>
+<summary><strong>Team Leader — SUPW Project (SNKansagra School)</strong></summary>
+
+- Led a team visiting RMC schools to teach underprivileged children  
+- Designed engaging educational sessions to promote learning, empathy, and community development  
+- Strengthened leadership, teamwork, and communication skills through hands-on instruction  
+
+</details>
+
+<details>
+<summary><strong>Manager — Swachh Bharat Abhiyan (Rajkot Municipal Corporation)</strong></summary>
+
+- Led cleanliness and hygiene awareness campaigns across local communities  
+- Coordinated volunteers and ensured effective use of government-provided resources  
+
+</details>
+
+<details>
+<summary><strong>Covid-19 Squad Leader — The Galaxy Education System</strong></summary>
+
+- Managed temporary hospital operations during the COVID-19 pandemic  
+- Coordinated patient flow, medical supplies, and equipment availability  
+- Supported healthcare staff to ensure efficient and safe operations  
+
+</details>
+
 
 ---
 
