@@ -86,53 +86,105 @@ Turning complex, real-world data into scalable and explainable AI/ML solutions.
 
 ## 📂 Projects
 
+
 <details>
 <summary><strong>Flight Data Analysis Pipeline</strong></summary>
 
-**Tech:** AWS, Hadoop, MapReduce, Python, SQL  
-- Processed large-scale flight datasets using distributed computing  
-- Built feature aggregation pipelines for analytics  
-- Designed optimized workflows on AWS  
+**Tech:** AWS, Hadoop, MapReduce, Python, SQL, ETL  
+- Processed large-scale flight datasets using Hadoop & MapReduce  
+- Built feature aggregation pipelines to extract actionable insights  
+- Designed optimized distributed workflows on AWS for scalable analytics  
 
 </details>
 
 <details>
 <summary><strong>Explainable AI Research</strong></summary>
 
-**Tech:** Python, scikit-learn, Pandas  
-- Trained classification and regression models  
-- Applied explainability techniques to assess bias and interpret behavior  
-- Communicated results through visual dashboards  
+**Tech:** Python, scikit-learn, Pandas, Jupyter, Matplotlib, Seaborn  
+- Developed classification and regression models with Explainable AI techniques  
+- Visualized model performance, assessed bias, and ensured interpretability  
+- Delivered actionable insights through interactive dashboards  
 
 </details>
 
 <details>
 <summary><strong>Chess Games Dataset Analysis</strong></summary>
 
-**Tech:** Python, Data Mining, SMOTE, XGBoost  
-- Predicted chess outcomes using multiple ML models  
-- Addressed class imbalance and engineered new features  
-- Visualized insights for strategic gameplay analysis  
+**Tech:** Python, Data Mining, Data Visualization, Feature Engineering  
+- Applied Logistic Regression, Random Forest, Gradient Boosting, CatBoost, and XGBoost to predict chess game outcomes  
+- Handled class imbalance using SMOTE and performed feature engineering  
+- Created comprehensive visualizations to analyze game patterns and results  
+
+</details>
+
+<details>
+<summary><strong>Computer Steering WRF-Solar-BNL</strong></summary>
+
+**Tech:** Data Analysis, Ubuntu, Data Visualization, Teamwork  
+- Enhanced WRF-Solar model for solar irradiance analysis  
+- Recommended optimal solar grid locations using statistical and visual analysis  
+- Supported renewable energy efficiency improvements through data-driven insights  
+
+</details>
+
+<details>
+<summary><strong>New York Housing Market Prices</strong></summary>
+
+**Tech:** Python, Matplotlib, Dashboards, Data Visualization, React.js  
+- Analyzed Kaggle dataset to identify primary drivers of housing price fluctuations  
+- Improved predictive accuracy by **15%** through data preprocessing and feature analysis  
+- Designed interactive dashboards to enhance decision-making and storytelling  
+
+</details>
+
+<details>
+<summary><strong>Queue Theory and Simulation</strong></summary>
+
+**Tech:** Microsoft Excel, Management, Teamwork, Business Modeling  
+- Simulated queue and inventory management processes using Excel  
+- Applied Monte Carlo methods to optimize KPIs and operational metrics  
+- Enhanced teamwork and process efficiency through collaborative analysis  
 
 </details>
 
 <details>
 <summary><strong>Healthcare Result Prediction Model</strong></summary>
 
-**Tech:** Python, Random Forest, Logistic Regression  
-- Built predictive classification models  
-- Achieved **99% accuracy** using Random Forest  
-- Improved evaluation with Confusion Matrices  
+**Tech:** Python, Data Preprocessing, Data Visualization  
+- Built predictive models using Logistic Regression, Random Forest, and Decision Trees  
+- Achieved **99% accuracy** with Random Forest  
+- Improved data processing efficiency and model evaluation using Confusion Matrices  
+
+</details>
+
+<details>
+<summary><strong>Big Data Analytics Overview</strong></summary>
+
+**Tech:** Hadoop, Spark, Python, Big Data Concepts  
+- Presented the 5 V’s of Big Data: Volume, Velocity, Variety, Veracity, and Value  
+- Demonstrated distributed data processing using Hadoop and Spark  
+- Analyzed challenges such as scalability, data privacy, and storage constraints  
+- Explored future trends including real-time analytics and AI-driven pipelines  
+
+</details>
+
+<details>
+<summary><strong>SUPW Project</strong></summary>
+
+**Tech:** Leadership, Community Engagement, Teaching  
+- Conducted annual visits to RMC schools to teach underprivileged children  
+- Designed interactive learning sessions to increase engagement and knowledge retention  
+- Built leadership, empathy, teamwork, and communication skills through hands-on instruction  
 
 </details>
 
 <details>
 <summary><strong>Integrated Science Project (ISPC)</strong></summary>
 
-**Tech:** Robotics, Automation  
-- Built an automated irrigation robot for agricultural efficiency  
-- Reduced manual labor through intelligent scheduling  
-- Awarded **ISPC 2019 Science Integrators Award**  
+**Tech:** Robotics, Automation, Applied Science  
+- Developed an automated robot to water crops and supply nutrients in agricultural fields  
+- Optimized irrigation scheduling to reduce manual labor and improve efficiency  
+- Awarded **ISPC 2019 Science Integrators Award** for interdisciplinary innovation  
 
 </details>
 
@@ -140,29 +192,65 @@ Turning complex, real-world data into scalable and explainable AI/ML solutions.
 
 ## 🤝 Volunteer Work
 
-<details>
-<summary><strong>Covid-19 Squad Leader — The Galaxy Education System</strong></summary>
-
-- Coordinated patient flow and medical equipment in a temporary COVID hospital  
-- Supported healthcare staff during crisis operations  
-
-</details>
-
-<details>
-<summary><strong>Manager — Swachh Bharat Abhiyan (RMC)</strong></summary>
-
-- Led community cleanliness campaigns  
-- Coordinated volunteers and managed public resources  
-
-</details>
 
 <details>
 <summary><strong>Student Volunteer — Big Brothers Big Sisters of America</strong></summary>
 
-- Supported youth mentorship programs  
-- Encouraged confidence, engagement, and learning  
+Supported youth mentorship initiatives by helping students build confidence,
+academic engagement, and social skills through consistent guidance and support.
 
 </details>
+
+<details>
+<summary><strong>Career Fair Volunteer — New Jersey Institute of Technology</strong></summary>
+
+Assisted in organizing and managing large-scale career fairs, guiding students
+and recruiters to ensure smooth operations and a professional event experience.
+
+</details>
+
+<details>
+<summary><strong>Secretary — Business Masterminds Club @ NJIT</strong></summary>
+
+Maintained meeting records, coordinated communications, and supported planning
+of academic and professional development initiatives for club members.
+
+</details>
+
+<details>
+<summary><strong>Treasurer — Models of United Nations Club @ NJIT</strong></summary>
+
+Managed budgeting, expense tracking, and financial reporting to ensure
+transparent and responsible allocation of funds for events and conferences.
+
+</details>
+
+<details>
+<summary><strong>Team Leader — SUPW Project (SNKansagra School)</strong></summary>
+
+Led teams visiting Rajkot Municipal Corporation schools to teach underprivileged
+children, designing engaging educational sessions that fostered learning,
+empathy, leadership, and community connection.
+
+</details>
+
+<details>
+<summary><strong>Manager — Swachh Bharat Abhiyan (Rajkot Municipal Corporation)</strong></summary>
+
+Led community-wide cleanliness and hygiene awareness campaigns, coordinated
+volunteers, and ensured proper use of government-provided sanitation resources.
+
+</details>
+
+<details>
+<summary><strong>Covid-19 Squad Leader — The Galaxy Education System</strong></summary>
+
+Managed logistics and patient coordination at a temporary COVID-19 care facility,
+ensuring medical staff had timely access to equipment and organized treatment
+flows during critical operations.
+
+</details>
+
 
 ---
 
