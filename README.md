@@ -1,4 +1,5 @@
 <!-- ================= Dark-Mode Optimized GitHub Portfolio ================= -->
+<link rel="stylesheet" href="assets/css/custom.css">
 
 <table>
 <tr>
