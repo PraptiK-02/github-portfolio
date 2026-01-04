@@ -1,5 +1,64 @@
-title: Prapti Kansagra
+#title: Prapti Kansagra
 #logo: 
 #description:
 #show_downloads: true
+#theme: jekyll-theme-minimal
+
+
+# ================= Website Config =================
+
+title: "Prapti Kansagra"
+description: "Data Scientist & AI/ML Enthusiast | Turning complex data into actionable insights with AI, Big Data, and data-driven creativity."
+url: "https://your-github-username.github.io" # replace with your GitHub Pages URL
+baseurl: "" # leave empty if deploying at root
 theme: jekyll-theme-minimal
+show_downloads: true
+
+# =============== Dark Mode =================
+# Minimal theme supports light/dark toggle with CSS
+dark_mode: true
+background_color: "#121212"
+text_color: "#FFFFFF"
+link_color: "#1E90FF"
+accent_color: "#FFD700"
+
+# ================= Profile =================
+profile:
+  name: "Prapti Kansagra"
+  tagline: "Data Scientist & AI/ML Enthusiast"
+  description: |
+    I turn complex data into actionable insights using AI/ML, Big Data, and data-driven creativity.
+    *“Generosity compounds—what you give to others lifts you higher in return.”*
+  headshot: "/assets/images/Headshot.jpg" # path to your headshot
+  resume: "/assets/files/Prapti_Kansagra_Resume.pdf" # optional download
+
+# ================= Social Links =================
+social:
+  linkedin: "https://www.linkedin.com/in/praptikansagra/"
+  email: "mailto:pkansagra06@gmail.com"
+  phone: "tel:+19733077872"
+  instagram: "https://www.instagram.com/instant.art.vibes"
+
+# ================= Layout Options =================
+navigation:
+  - name: "About Me"
+    url: "/#about"
+  - name: "Skills"
+    url: "/#skills"
+  - name: "Projects"
+    url: "/#projects"
+  - name: "Experience"
+    url: "/#experience"
+  - name: "Volunteer"
+    url: "/#volunteer"
+  - name: "Achievements"
+    url: "/#achievements"
+  - name: "Publications"
+    url: "/#publications"
+  - name: "Contact"
+    url: "/#connect"
+
+# ================= SEO & Metadata =================
+author: "Prapti Kansagra"
+email: "pkansagra06@gmail.com"
+lang: "en"
