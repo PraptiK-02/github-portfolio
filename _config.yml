@@ -6,13 +6,22 @@
 
 
 title: Prapti Kansagra
-description: Data Scientist & AI/ML Enthusiast
+description: Data Scientist | AI/ML | Business Intelligence — turning messy data into decisions
 logo: Headshot.jpg
 show_downloads: true
 theme: jekyll-theme-midnight
 
+# Make sure GitHub Pages includes your assets folder
+include:
+  - assets
 
-# At the bottom of _config.yml
+# Markdown engine (GitHub-friendly, allows HTML blocks you’re using)
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# CSS minification (you already had this idea)
 sass:
   style: compressed
+
 
