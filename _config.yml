@@ -6,12 +6,12 @@
 
 
 title: Prapti Kansagra
-description: BI/DA Analyst | Data Science | AI/ML | SQL • Python • Power BI • Tableau
+description: BI/DA Analyst | Data Science | AI/ML 
 theme: jekyll-theme-minimal
-
 
 logo: /Headshot.jpg
 show_downloads: false
+markdown: kramdown
 
 
 
