@@ -1,4 +1,5 @@
 <!-- ================= Dark-Mode Optimized GitHub Portfolio ================= -->
+<!--
 <link rel="stylesheet" href="assets/css/custom.css">
 
 <table>
@@ -270,3 +271,221 @@ flows during critical operations.
 - **Email:** pkansagra06@gmail.com  
 - **Phone:** +1 (973) 307-7872  
 - **Art Instagram:** https://www.instagram.com/instant.art.vibes
+
+--------------------------------------------------------------------------------------------------------------------
+-->
+
+<!-- Load custom styles (works on GitHub Pages + usually on GitHub README rendering too) -->
+<link rel="stylesheet" href="assets/css/custom.css">
+
+<div class="pk-hero">
+  <img src="Headshot.jpg" width="150" alt="Prapti Kansagra headshot" />
+  <div>
+    
+# Prapti Kansagra  
+**Data Scientist | AI/ML | Business Intelligence**
+
+Turning complex, real-world data into decisions — with clean dashboards, reliable pipelines, and explainable models.
+
+<i>“Generosity compounds — give freely, grow steadily.”</i>
+
+<div class="pk-badges">
+  <span class="pk-badge">Python</span>
+  <span class="pk-badge">SQL</span>
+  <span class="pk-badge">Power BI</span>
+  <span class="pk-badge">Tableau</span>
+  <span class="pk-badge">AWS</span>
+  <span class="pk-badge">Hadoop/MapReduce</span>
+</div>
+
+<div class="pk-links">
+  <a href="https://www.linkedin.com/in/praptikansagra">LinkedIn</a>
+  <a href="mailto:pkansagra06@gmail.com">Email</a>
+  <a href="https://www.instagram.com/instant.art.vibes">Art</a>
+</div>
+
+  </div>
+</div>
+
+---
+
+## 🛠️ Skills (quick scan)
+
+- **Analytics & BI:** Power BI, Tableau, Excel, KPI reporting, stakeholder-ready dashboards  
+- **Data Science:** supervised ML, model evaluation, feature engineering, explainability  
+- **Data Engineering:** ETL, data cleaning, workflow automation, reproducible pipelines  
+- **Tech:** Python (Pandas, NumPy, scikit-learn), SQL, AWS (EC2/S3), Hadoop/MapReduce, Git, Linux
+
+---
+
+<div class="pk-tabs">
+
+  <input type="radio" name="pk-tabset" id="tab-experience" checked>
+  <input type="radio" name="pk-tabset" id="tab-projects">
+  <input type="radio" name="pk-tabset" id="tab-volunteer">
+  <input type="radio" name="pk-tabset" id="tab-publications">
+
+  <div class="pk-tabbar">
+    <label for="tab-experience">Experience</label>
+    <label for="tab-projects">Projects</label>
+    <label for="tab-volunteer">Volunteer</label>
+    <label for="tab-publications">Publications</label>
+  </div>
+
+  <div class="pk-panels">
+
+    <!-- ================= EXPERIENCE ================= -->
+    <div class="pk-panel" id="panel-experience">
+
+### 💼 Experience
+
+<details>
+<summary>Business Data Analyst Intern (AI/ML) | Thaddeus Resource Center</summary>
+
+- Built ML-ready datasets across messy sources to support outcome prediction  
+- Delivered Power BI reporting for leadership decisions (trends, risk flags, program performance)  
+- Automated recurring reporting using Python + Power Automate, reducing manual effort **35%**  
+- Led cross-functional check-ins with stakeholders (director, HR, tech, operations) to align metrics + delivery  
+
+</details>
+
+<details>
+<summary>Career Development Peer Assistant (Data Insights) | NJIT</summary>
+
+- Analyzed service/program data to surface trends and operational improvements  
+- Built lightweight dashboards and recurring reports for faster decision-making  
+- Communicated findings to non-technical teams in clear, action-first language  
+
+</details>
+
+<details>
+<summary>Office Assistant (Operational Support) | NJIT</summary>
+
+- Standardized tracking and reporting workflows to reduce confusion + rework  
+- Supported daily operations through consistent documentation and process follow-through  
+
+</details>
+
+<details>
+<summary>Math Tutor | NJIT</summary>
+
+- Explained complex topics simply (stats, algebra, calculus) and improved student outcomes through structured practice  
+
+</details>
+
+    </div>
+
+    <!-- ================= PROJECTS ================= -->
+    <div class="pk-panel" id="panel-projects">
+
+### 📂 Projects
+
+<details>
+<summary>Flight Data Analysis Pipeline</summary>
+
+**Tech:** AWS, Hadoop, MapReduce, Python, SQL  
+- Processed multi-year aviation data (1987–2008) using distributed jobs  
+- Built feature aggregation outputs for scalable analysis + reporting  
+- Designed repeatable workflows to reduce reruns and debugging time  
+
+</details>
+
+<details>
+<summary>Explainable AI Modeling</summary>
+
+**Tech:** Python, scikit-learn, Pandas  
+- Trained classification/regression models and evaluated performance + bias  
+- Applied explainability techniques to make model behavior stakeholder-friendly  
+- Produced visuals and summaries that translate “model talk” into decisions  
+
+</details>
+
+<details>
+<summary>Chess Games Outcome Prediction</summary>
+
+**Tech:** Python, Feature Engineering  
+- Trained models (LogReg, RF, boosting) to predict match outcomes  
+- Addressed imbalance and improved signal via feature engineering + validation  
+
+</details>
+
+<details>
+<summary>New York Housing Market Analysis</summary>
+
+**Tech:** Python, Visualization  
+- Identified key price drivers and built a narrative around market patterns  
+- Improved predictive performance through preprocessing and feature work  
+
+</details>
+
+<details>
+<summary>Queue Theory & Simulation</summary>
+
+**Tech:** Excel, Monte Carlo Simulation  
+- Modeled operational queues and simulated outcomes to optimize KPIs  
+
+</details>
+
+    </div>
+
+    <!-- ================= VOLUNTEER ================= -->
+    <div class="pk-panel" id="panel-volunteer">
+
+### 🤝 Volunteer & Leadership
+
+<details>
+<summary>Big Brothers Big Sisters (Student Volunteer)</summary>
+
+- Supported youth mentorship activities focused on confidence and consistency  
+
+</details>
+
+<details>
+<summary>NJIT Career Fair (Volunteer)</summary>
+
+- Helped run high-traffic event operations and guided students/recruiters efficiently  
+
+</details>
+
+<details>
+<summary>Business Masterminds Club (Secretary) | NJIT</summary>
+
+- Managed meeting notes and coordinated communication to keep plans moving  
+
+</details>
+
+<details>
+<summary>Model UN Club (Treasurer) | NJIT</summary>
+
+- Owned budgeting + expense tracking to ensure transparent event funding  
+
+</details>
+
+<details>
+<summary>SUPW Project (Team Leader)</summary>
+
+- Led teams teaching underserved students through hands-on learning sessions  
+
+</details>
+
+    </div>
+
+    <!-- ================= PUBLICATIONS ================= -->
+    <div class="pk-panel" id="panel-publications">
+
+### 📚 Publications
+
+- **Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models** (NJIT, Dec 2024)  
+  - Built forecasting-focused analysis and scalable evaluation workflows  
+
+    </div>
+
+  </div>
+</div>
+
+---
+
+## 🔗 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/praptikansagra  
+- **Email:** pkansagra06@gmail.com
