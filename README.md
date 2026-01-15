@@ -287,7 +287,7 @@ flows during critical operations.
 <td>
 
 # Prapti Kansagra  
-**Business Intelligence Analyst | Data Science | AI/ML | Big Data**
+**BI/DA Analyst | Data Science | AI/ML**
 
 Turning complex, real-world data into scalable, explainable insights — dashboards, KPIs, and predictive modeling that leadership can actually use.
 
