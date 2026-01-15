@@ -13,4 +13,6 @@ logo: /Headshot.jpg
 show_downloads: false
 markdown: kramdown
 
+readme_index:
+  enabled: false
 
