@@ -1,159 +1,157 @@
-/* -----------------------------
-   Base polish (works with Midnight)
------------------------------- */
-:root {
-  --pk-border: rgba(255,255,255,0.14);
-  --pk-soft: rgba(255,255,255,0.08);
-  --pk-text: rgba(255,255,255,0.92);
-  --pk-muted: rgba(255,255,255,0.75);
-  --pk-accent: #00BFFF;
+:root{
+  --bg: #0b0f14;
+  --card: rgba(255,255,255,0.06);
+  --border: rgba(255,255,255,0.12);
+  --text: rgba(255,255,255,0.92);
+  --muted: rgba(255,255,255,0.72);
+  --accent: #00BFFF;
 }
 
-body {
-  color: var(--pk-text);
+body { color: var(--text); }
+
+.pk-wrap{
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 20px 18px;
 }
 
-/* Small badge pills */
-.pk-badges {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 10px 0 0;
-}
-.pk-badge {
-  display: inline-block;
-  padding: 6px 10px;
-  border: 1px solid var(--pk-border);
-  background: var(--pk-soft);
-  border-radius: 999px;
-  font-size: 0.9em;
-  color: var(--pk-muted);
-}
-
-/* -----------------------------
-   DETAILS accordion arrows
------------------------------- */
-details {
-  margin: 0.9em 0;
-  border: 1px solid var(--pk-border);
-  background: rgba(0,0,0,0.18);
-  border-radius: 12px;
-  padding: 10px 12px;
-}
-
-details summary {
-  cursor: pointer;
-  list-style: none;
-  position: relative;
-  padding-left: 1.6em;
-  font-weight: 700;
-}
-
-details summary::-webkit-details-marker {
-  display: none;
-}
-
-details summary::before {
-  content: "▶";
-  position: absolute;
-  left: 0;
-  top: 0.05em;
-  transition: transform 0.18s ease;
-  color: var(--pk-accent);
-}
-
-details[open] summary::before {
-  transform: rotate(90deg);
-}
-
-/* Make inner bullets tighter */
-details ul {
-  margin: 0.5em 0 0.2em 1.1em;
-}
-details li {
-  margin: 0.35em 0;
-}
-
-/* -----------------------------
-   NO-JS Tabs (radio buttons)
------------------------------- */
-.pk-tabs {
-  margin-top: 14px;
-  border: 1px solid var(--pk-border);
-  background: rgba(0,0,0,0.18);
-  border-radius: 14px;
-  overflow: hidden;
-}
-
-.pk-tabbar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0;
-  border-bottom: 1px solid var(--pk-border);
-  background: rgba(0,0,0,0.30);
-}
-
-.pk-tabs input[type="radio"] {
-  display: none;
-}
-
-.pk-tabbar label {
-  padding: 12px 14px;
-  cursor: pointer;
-  font-weight: 800;
-  color: var(--pk-muted);
-  border-right: 1px solid var(--pk-border);
-  user-select: none;
-}
-
-.pk-tabbar label:hover {
-  color: var(--pk-text);
-  background: rgba(255,255,255,0.06);
-}
-
-.pk-panels {
-  padding: 14px 14px 6px;
-}
-
-/* Hide all panels by default */
-.pk-panel {
-  display: none;
-}
-
-/* Show the selected panel */
-#tab-projects:checked ~ .pk-panels #panel-projects,
-#tab-experience:checked ~ .pk-panels #panel-experience,
-#tab-volunteer:checked ~ .pk-panels #panel-volunteer,
-#tab-publications:checked ~ .pk-panels #panel-publications {
-  display: block;
-}
-
-/* Active tab styling */
-#tab-projects:checked ~ .pk-tabbar label[for="tab-projects"],
-#tab-experience:checked ~ .pk-tabbar label[for="tab-experience"],
-#tab-volunteer:checked ~ .pk-tabbar label[for="tab-volunteer"],
-#tab-publications:checked ~ .pk-tabbar label[for="tab-publications"] {
-  color: var(--pk-text);
-  background: rgba(255,255,255,0.07);
-  box-shadow: inset 0 -3px 0 var(--pk-accent);
-}
-
-/* -----------------------------
-   Top header layout helpers
------------------------------- */
-.pk-hero {
+.pk-hero{
   display: flex;
   gap: 18px;
   align-items: center;
   flex-wrap: wrap;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: var(--card);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
 }
 
-.pk-hero img {
-  border-radius: 50%;
-  border: 2px solid var(--pk-border);
+.pk-hero img{
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 999px;
+  border: 2px solid var(--border);
 }
 
-.pk-links a {
+.pk-title{
+  margin: 0;
+  line-height: 1.2;
+}
+
+.pk-sub{
+  margin: 6px 0 10px;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.pk-links a{
   margin-right: 12px;
-  font-weight: 700;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.pk-links a:hover{
+  text-decoration: underline;
+}
+
+/* Top nav “tabs” */
+.pk-nav{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  margin: 14px 0 18px;
+  padding: 10px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(10px);
+}
+
+.pk-nav ul{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.pk-nav a{
+  display: inline-block;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.04);
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 850;
+}
+
+.pk-nav a:hover{
+  border-color: rgba(0,191,255,0.45);
+  box-shadow: 0 0 0 3px rgba(0,191,255,0.10);
+}
+
+/* Section cards */
+.pk-section{
+  margin: 18px 0;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: var(--card);
+}
+
+.pk-section h2{
+  margin-top: 0;
+}
+
+.pk-grid{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+@media (max-width: 800px){
+  .pk-grid{ grid-template-columns: 1fr; }
+}
+
+.pk-card{
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 14px 14px 12px;
+  background: rgba(0,0,0,0.18);
+}
+
+.pk-card h3{
+  margin: 0 0 6px;
+}
+
+.pk-meta{
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-weight: 650;
+  font-size: 0.95em;
+}
+
+.pk-card ul{
+  margin: 0.4em 0 0.2em 1.1em;
+}
+
+.pk-chiprow{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.pk-chip{
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.04);
+  border-radius: 999px;
+  color: var(--muted);
+  font-weight: 650;
+  font-size: 0.9em;
 }
