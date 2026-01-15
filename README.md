@@ -275,217 +275,167 @@ flows during critical operations.
 --------------------------------------------------------------------------------------------------------------------
 -->
 
-<!-- Load custom styles (works on GitHub Pages + usually on GitHub README rendering too) -->
 <link rel="stylesheet" href="assets/css/custom.css">
 
-<div class="pk-hero">
-  <img src="Headshot.jpg" width="150" alt="Prapti Kansagra headshot" />
-  <div>
-    
-# Prapti Kansagra  
-**Data Scientist | AI/ML | Business Intelligence**
+<div class="pk-wrap">
 
-Turning complex, real-world data into decisions — with clean dashboards, reliable pipelines, and explainable models.
+<div class="pk-hero">
+  <img src="Headshot.jpg" alt="Prapti Kansagra">
+  <div>
+    <h1 class="pk-title">Prapti Kansagra</h1>
+    <div class="pk-sub">Data Scientist | AI/ML | Business Intelligence</div>
+
+Turning complex, real-world data into decisions — dashboards leaders actually use, pipelines that don’t break, and models people can understand.
 
 <i>“Generosity compounds — give freely, grow steadily.”</i>
-
-<div class="pk-badges">
-  <span class="pk-badge">Python</span>
-  <span class="pk-badge">SQL</span>
-  <span class="pk-badge">Power BI</span>
-  <span class="pk-badge">Tableau</span>
-  <span class="pk-badge">AWS</span>
-  <span class="pk-badge">Hadoop/MapReduce</span>
-</div>
 
 <div class="pk-links">
   <a href="https://www.linkedin.com/in/praptikansagra">LinkedIn</a>
   <a href="mailto:pkansagra06@gmail.com">Email</a>
-  <a href="https://www.instagram.com/instant.art.vibes">Art</a>
+  <!-- <a href="https://www.instagram.com/instant.art.vibes">Art</a> -->
 </div>
 
+<div class="pk-chiprow">
+  <span class="pk-chip">Python</span>
+  <span class="pk-chip">SQL</span>
+  <span class="pk-chip">Power BI</span>
+  <span class="pk-chip">Tableau</span>
+  <span class="pk-chip">AWS</span>
+  <span class="pk-chip">Hadoop/MapReduce</span>
+</div>
   </div>
 </div>
 
----
+<nav class="pk-nav">
+  <ul>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#volunteer">Volunteer</a></li>
+    <li><a href="#publications">Publications</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
 
-## 🛠️ Skills (quick scan)
+<section class="pk-section" id="skills">
 
-- **Analytics & BI:** Power BI, Tableau, Excel, KPI reporting, stakeholder-ready dashboards  
-- **Data Science:** supervised ML, model evaluation, feature engineering, explainability  
-- **Data Engineering:** ETL, data cleaning, workflow automation, reproducible pipelines  
-- **Tech:** Python (Pandas, NumPy, scikit-learn), SQL, AWS (EC2/S3), Hadoop/MapReduce, Git, Linux
+## Technical Skills
 
----
+**Programming & Query**
+- Python (Pandas, NumPy, scikit-learn)
+- SQL (joins, CTEs, aggregations)
 
-<div class="pk-tabs">
+**BI & Analytics**
+- Power BI (DAX, dashboards, KPI reporting)
+- Tableau (dashboards, storytelling)
+- Excel (advanced formulas, pivots, modeling)
 
-  <input type="radio" name="pk-tabset" id="tab-experience" checked>
-  <input type="radio" name="pk-tabset" id="tab-projects">
-  <input type="radio" name="pk-tabset" id="tab-volunteer">
-  <input type="radio" name="pk-tabset" id="tab-publications">
+**Data Science**
+- Predictive modeling (classification, regression)
+- Feature engineering, model evaluation, validation
+- Explainable AI / model interpretation
 
-  <div class="pk-tabbar">
-    <label for="tab-experience">Experience</label>
-    <label for="tab-projects">Projects</label>
-    <label for="tab-volunteer">Volunteer</label>
-    <label for="tab-publications">Publications</label>
-  </div>
+**Data Engineering & Platforms**
+- ETL pipelines, workflow automation (Power Automate)
+- AWS (EC2, S3), Git/GitHub, Linux
+- Hadoop, MapReduce
 
-  <div class="pk-panels">
+</section>
 
-    <!-- ================= EXPERIENCE ================= -->
-    <div class="pk-panel" id="panel-experience">
+<section class="pk-section" id="projects">
 
-### 💼 Experience
+## Projects
 
-<details>
-<summary>Business Data Analyst Intern (AI/ML) | Thaddeus Resource Center</summary>
+<div class="pk-grid">
 
-- Built ML-ready datasets across messy sources to support outcome prediction  
-- Delivered Power BI reporting for leadership decisions (trends, risk flags, program performance)  
-- Automated recurring reporting using Python + Power Automate, reducing manual effort **35%**  
-- Led cross-functional check-ins with stakeholders (director, HR, tech, operations) to align metrics + delivery  
-
-</details>
-
-<details>
-<summary>Career Development Peer Assistant (Data Insights) | NJIT</summary>
-
-- Analyzed service/program data to surface trends and operational improvements  
-- Built lightweight dashboards and recurring reports for faster decision-making  
-- Communicated findings to non-technical teams in clear, action-first language  
-
-</details>
-
-<details>
-<summary>Office Assistant (Operational Support) | NJIT</summary>
-
-- Standardized tracking and reporting workflows to reduce confusion + rework  
-- Supported daily operations through consistent documentation and process follow-through  
-
-</details>
-
-<details>
-<summary>Math Tutor | NJIT</summary>
-
-- Explained complex topics simply (stats, algebra, calculus) and improved student outcomes through structured practice  
-
-</details>
-
-    </div>
-
-    <!-- ================= PROJECTS ================= -->
-    <div class="pk-panel" id="panel-projects">
-
-### 📂 Projects
-
-<details>
-<summary>Flight Data Analysis Pipeline</summary>
-
-**Tech:** AWS, Hadoop, MapReduce, Python, SQL  
-- Processed multi-year aviation data (1987–2008) using distributed jobs  
-- Built feature aggregation outputs for scalable analysis + reporting  
-- Designed repeatable workflows to reduce reruns and debugging time  
-
-</details>
-
-<details>
-<summary>Explainable AI Modeling</summary>
-
-**Tech:** Python, scikit-learn, Pandas  
-- Trained classification/regression models and evaluated performance + bias  
-- Applied explainability techniques to make model behavior stakeholder-friendly  
-- Produced visuals and summaries that translate “model talk” into decisions  
-
-</details>
-
-<details>
-<summary>Chess Games Outcome Prediction</summary>
-
-**Tech:** Python, Feature Engineering  
-- Trained models (LogReg, RF, boosting) to predict match outcomes  
-- Addressed imbalance and improved signal via feature engineering + validation  
-
-</details>
-
-<details>
-<summary>New York Housing Market Analysis</summary>
-
-**Tech:** Python, Visualization  
-- Identified key price drivers and built a narrative around market patterns  
-- Improved predictive performance through preprocessing and feature work  
-
-</details>
-
-<details>
-<summary>Queue Theory & Simulation</summary>
-
-**Tech:** Excel, Monte Carlo Simulation  
-- Modeled operational queues and simulated outcomes to optimize KPIs  
-
-</details>
-
-    </div>
-
-    <!-- ================= VOLUNTEER ================= -->
-    <div class="pk-panel" id="panel-volunteer">
-
-### 🤝 Volunteer & Leadership
-
-<details>
-<summary>Big Brothers Big Sisters (Student Volunteer)</summary>
-
-- Supported youth mentorship activities focused on confidence and consistency  
-
-</details>
-
-<details>
-<summary>NJIT Career Fair (Volunteer)</summary>
-
-- Helped run high-traffic event operations and guided students/recruiters efficiently  
-
-</details>
-
-<details>
-<summary>Business Masterminds Club (Secretary) | NJIT</summary>
-
-- Managed meeting notes and coordinated communication to keep plans moving  
-
-</details>
-
-<details>
-<summary>Model UN Club (Treasurer) | NJIT</summary>
-
-- Owned budgeting + expense tracking to ensure transparent event funding  
-
-</details>
-
-<details>
-<summary>SUPW Project (Team Leader)</summary>
-
-- Led teams teaching underserved students through hands-on learning sessions  
-
-</details>
-
-    </div>
-
-    <!-- ================= PUBLICATIONS ================= -->
-    <div class="pk-panel" id="panel-publications">
-
-### 📚 Publications
-
-- **Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models** (NJIT, Dec 2024)  
-  - Built forecasting-focused analysis and scalable evaluation workflows  
-
-    </div>
-
-  </div>
+<div class="pk-card">
+  <h3>Flight Data Analysis Pipeline</h3>
+  <p class="pk-meta"><b>Tech:</b> AWS, Hadoop, MapReduce, Python, SQL</p>
+  <ul>
+    <li>Processed multi-year aviation data (1987–2008) using distributed jobs.</li>
+    <li>Built feature aggregation outputs for scalable analysis + reporting.</li>
+    <li>Designed repeatable workflows to reduce reruns and debugging time.</li>
+  </ul>
 </div>
 
----
+<div class="pk-card">
+  <h3>Explainable AI Modeling</h3>
+  <p class="pk-meta"><b>Tech:</b> Python, scikit-learn, Pandas</p>
+  <ul>
+    <li>Trained models and evaluated performance with clear decision-ready summaries.</li>
+    <li>Applied explainability methods to make model behavior stakeholder-friendly.</li>
+    <li>Produced visuals and narratives that translate model output into action.</li>
+  </ul>
+</div>
 
-## 🔗 Contact
+<div class="pk-card">
+  <h3>Chess Outcome Prediction</h3>
+  <p class="pk-meta"><b>Tech:</b> Python, Feature Engineering</p>
+  <ul>
+    <li>Built models (LogReg, tree-based) to predict match outcomes.</li>
+    <li>Improved signal with feature engineering + validation.</li>
+  </ul>
+</div>
 
-- **LinkedIn:** https://www.linkedin.com/in/praptikansagra  
+<div class="pk-card">
+  <h3>New York Housing Market Analysis</h3>
+  <p class="pk-meta"><b>Tech:</b> Python, Visualization</p>
+  <ul>
+    <li>Identified price drivers and built a clean market narrative.</li>
+    <li>Improved predictive performance via preprocessing and feature work.</li>
+  </ul>
+</div>
+
+</div>
+</section>
+
+<section class="pk-section" id="experience">
+
+## Experience
+
+<div class="pk-card">
+  <h3>Business Data Analyst Intern (AI/ML) — Thaddeus Resource Center</h3>
+  <p class="pk-meta">Predictive modeling • BI reporting • Stakeholder communication</p>
+  <ul>
+    <li>Built ML-ready datasets across messy sources to support outcome prediction.</li>
+    <li>Delivered Power BI reporting for leadership decisions (trends, risk flags, program performance).</li>
+    <li>Automated recurring reporting using Python + Power Automate, reducing manual effort <b>35%</b>.</li>
+    <li>Led cross-functional check-ins with director, HR, tech, and operations to align metrics + delivery.</li>
+  </ul>
+</div>
+
+</section>
+
+<section class="pk-section" id="volunteer">
+
+## Volunteer & Leadership
+
+<ul>
+  <li><b>Big Brothers Big Sisters:</b> youth mentorship support focused on consistency and confidence</li>
+  <li><b>NJIT Career Fair Volunteer:</b> supported high-traffic event operations and candidate flow</li>
+  <li><b>Business Masterminds Club (Secretary):</b> notes, coordination, communication</li>
+  <li><b>Model UN (Treasurer):</b> budgeting and expense tracking</li>
+</ul>
+
+</section>
+
+<section class="pk-section" id="publications">
+
+## Publications
+
+- <b>Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models</b> (NJIT, Dec 2024)
+
+</section>
+
+<section class="pk-section" id="contact">
+
+## Contact
+
+- <b>LinkedIn:</b> https://www.linkedin.com/in/praptikansagra  
+- <b>Email:</b> pkansagra06@gmail.com
+
+</section>
+
+</div>
+
 - **Email:** pkansagra06@gmail.com
