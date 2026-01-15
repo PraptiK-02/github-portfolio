@@ -277,83 +277,354 @@ flows during critical operations.
 
 
 
-# Prapti Kansagra
+<link rel="stylesheet" href="assets/css/custom.css">
 
-**Business Intelligence Analyst | Data Science | AI/ML | SQL • Python • Power BI • Tableau**
+<table>
+<tr>
+<td width="180">
+<img src="Headshot.jpg" width="160" style="border-radius:18px" />
+</td>
+<td>
 
-Early-career Business Intelligence & Data Analyst with hands-on experience in data analytics, predictive modeling, workflow automation, and scalable data processing. Proven ability to translate complex datasets into clear, actionable insights that support leadership decision-making. Experienced working cross-functionally with stakeholders across HR, Operations, Marketing, and Technology teams.
+# Prapti Kansagra  
+**Business Intelligence Analyst | Data Science | AI/ML | Big Data**
 
----
+Turning complex, real-world data into scalable, explainable insights — dashboards, KPIs, and predictive modeling that leadership can actually use.
 
-## 🔹 Core Skills
+<i>“Generosity compounds—what you give to others lifts you higher in return.”</i>
 
-**Data & Analytics**
-- SQL (data extraction, joins, validation)
-- Python (Pandas, NumPy, scikit-learn)
-- Exploratory Data Analysis (EDA)
-- Predictive Modeling & Feature Analysis
+<a class="btn" href="assets/docs/PraptiKansagra-Resume.pdf">📄 Resume</a>
+<a class="btn" href="https://www.linkedin.com/in/praptikansagra">🔗 LinkedIn</a>
+<a class="btn" href="mailto:pkansagra06@gmail.com">✉️ Email</a>
 
-**Business Intelligence & Reporting**
-- Power BI
-- Tableau
-- Advanced Excel (PivotTables, Lookups, Automation)
-- KPI Tracking & Dashboard Design
-
-**Data Engineering & Automation**
-- ETL Pipelines
-- Power Automate
-- Hadoop & MapReduce (Foundational)
-- AWS (Foundational)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔹 Professional Experience
+<div class="card">
 
-### Business Data Analyst Intern  
-**Thaddeus Resource Center (Nonprofit)** | Aug 2025 – Present  
-- Built predictive models in Python and Excel to estimate program success rates and support program expansion decisions  
-- Analyzed operational and program data to identify trends impacting outcomes and resource allocation  
-- Developed dashboards and reports using Power BI and Tableau for non-technical stakeholders  
-- Led cross-functional discussions with leadership, HR, technology, and operations teams as the primary analytics point of contact  
+## 🛠️ Technical Skills
 
-### Career Development Peer Assistant  
-**New Jersey Institute of Technology (NJIT)** | Sep 2024 – May 2025  
-- Supported institutional reporting and analysis related to student engagement and career outcomes  
-- Collaborated with multiple departments to improve data tracking and operational processes  
+- **Programming & Data:** Python (Pandas, NumPy, scikit-learn), SQL, R  
+- **Machine Learning / AI:** Supervised Learning, Model Evaluation, Explainable AI  
+- **Cloud & Big Data:** AWS (EC2, S3), Hadoop, MapReduce, Oozie  
+- **ETL & Pipelines:** Ingestion, Cleaning, Feature Engineering, Workflow Orchestration  
+- **Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Tools:** Git/GitHub, Jupyter, VS Code, Linux/Ubuntu, Jira  
 
-### Office Assistant  
-**NJIT – Office of Residence Life** | Jan 2023 – May 2025  
-- Supported administrative operations and reporting for a large residential organization  
-- Maintained structured records and operational trackers to improve workflow efficiency  
+<span class="pill">SQL</span><span class="pill">Python</span><span class="pill">Power BI</span><span class="pill">Tableau</span><span class="pill">Excel</span><span class="pill">Power Automate</span>
 
----
+</div>
 
-## 🔹 Projects
+<div class="card">
 
-### Predictive Analytics & Explainable AI Research  
-- Built predictive models using Python and scikit-learn  
-- Evaluated model performance and feature importance to support interpretability  
-- Focused on translating technical results into business-friendly insights  
+## 💼 Professional Experience
 
-### Large-Scale Flight Data Analysis Pipeline  
-- Processed multi-year aviation datasets (1987–2008) using Hadoop and MapReduce  
-- Built scalable ETL pipelines for aggregating operational metrics  
-- Enabled data-driven insights through structured analysis and reporting  
+<details>
+<summary><strong>Business Data Analyst Intern (AI/ML-Focused) | Thaddeus Resource Center</strong></summary>
+<div>
 
----
+- Built ML-ready datasets across sources to support predictive analytics  
+- Automated reporting and reduced manual effort using Python and Power Automate  
+- Created stakeholder-ready dashboards in Power BI / Tableau  
+- Partnered cross-functionally with leadership, HR, tech, and operations teams  
 
-## 🔹 Education
+</div>
+</details>
 
-**Bachelor of Science in Data Science**  
-Minor: Business  
-**New Jersey Institute of Technology (NJIT)**  
-GPA: 3.6 | Dean’s List (All Semesters)
+<details>
+<summary><strong>Career Development Peer Assistant (Data Insights) | NJIT</strong></summary>
+<div>
 
----
+- Supported reporting and analysis for student engagement and operations  
+- Helped improve tracking and coordination across departments  
 
-📫 **Contact**  
-- Email: pkansagra06@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/praptikansagra
+</div>
+</details>
+
+<details>
+<summary><strong>Office Assistant / Desk Attendant (Operations) | NJIT Residence Life</strong></summary>
+<div>
+
+- Supported day-to-day operations, tracking, and structured record management  
+- Improved process consistency and operational workflow execution  
+
+</div>
+</details>
+
+<details>
+<summary><strong>Mathematics Tutor | NJIT</strong></summary>
+<div>
+
+- Delivered personalized tutoring and learning support  
+- Strengthened problem-solving and communication through one-on-one coaching  
+
+</div>
+</details>
+
+</div>
+
+<div class="card">
+
+## 📂 Projects
+
+<details>
+<summary><strong>Customer Churn Analysis</strong></summary>
+<div>
+
+**Overview:**  
+Analyzed customer behavior to identify key drivers of churn and deliver actionable retention strategies for a subscription-based business.
+
+**Key Work:**
+- Identified churn drivers including contract type, tenure, monthly charges, and payment method  
+- Cleaned, transformed, and validated customer data for accurate analysis  
+- Built insights and recommendations to improve customer retention and revenue stability  
+- Delivered a concise executive-style summary for non-technical stakeholders  
+
+**Tech Skills:**
+- SQL (data extraction, joins, validation)  
+- Python (Pandas, NumPy)  
+- Excel (analysis, summaries)  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+
+</div>
+</details>
 
 
+<details>
+<summary><strong>Flight Data Analysis Pipeline</strong></summary>
+<div>
 
+**Overview:**  
+Built a scalable data pipeline to process and analyze multi-year aviation datasets using distributed computing frameworks.
+
+**Key Work:**
+- Processed flight data from 1987–2008 using Hadoop and MapReduce  
+- Built ETL workflows to aggregate operational and performance metrics  
+- Validated and structured large datasets for reliable analysis  
+- Enabled scalable analytics for downstream reporting and insights  
+
+**Tech Skills:**
+- Hadoop & MapReduce  
+- AWS (EC2, S3)  
+- Python  
+- SQL  
+- ETL Pipeline Design  
+
+</div>
+</details>
+
+
+<details>
+<summary><strong>Explainable AI Research</strong></summary>
+<div>
+
+**Overview:**  
+Developed interpretable machine learning models with a focus on transparency, fairness, and stakeholder trust.
+
+**Key Work:**
+- Built classification and regression models using supervised learning techniques  
+- Evaluated model performance and feature importance  
+- Applied Explainable AI methods to improve interpretability  
+- Communicated technical findings in business-friendly language  
+
+**Tech Skills:**
+- Python  
+- scikit-learn  
+- Pandas  
+- Explainable AI Techniques  
+- Model Evaluation  
+
+</div>
+</details>
+
+
+<details>
+<summary><strong>Chess Games Dataset Analysis</strong></summary>
+<div>
+
+**Overview:**  
+Analyzed historical chess game data to predict match outcomes and identify performance patterns.
+
+**Key Work:**
+- Built predictive models to estimate game outcomes  
+- Addressed class imbalance using SMOTE  
+- Performed feature engineering to improve model performance  
+- Visualized patterns and insights across player and game attributes  
+
+**Tech Skills:**
+- Python  
+- Logistic Regression, Random Forest, Gradient Boosting  
+- Feature Engineering  
+- Data Visualization  
+
+</div>
+</details>
+
+
+<details>
+<summary><strong>New York Housing Market Prices</strong></summary>
+<div>
+
+**Overview:**  
+Analyzed housing market data to identify key drivers influencing property prices in New York.
+
+**Key Work:**
+- Explored relationships between location, size, pricing, and market trends  
+- Cleaned and prepared real-world housing datasets  
+- Improved predictive accuracy through feature analysis  
+- Designed dashboards to communicate insights clearly  
+
+**Tech Skills:**
+- Python  
+- Data Visualization  
+- Feature Analysis  
+- Dashboard Design  
+
+</div>
+</details>
+
+
+<details>
+<summary><strong>Healthcare Result Prediction Model</strong></summary>
+<div>
+
+**Overview:**  
+Built predictive models to estimate healthcare outcomes using patient data.
+
+**Key Work:**
+- Trained and evaluated multiple classification models  
+- Achieved high predictive accuracy using ensemble methods  
+- Improved preprocessing and validation workflows  
+- Assessed model results using confusion matrices and metrics  
+
+**Tech Skills:**
+- Python  
+- Logistic Regression, Random Forest, Decision Trees  
+- Data Preprocessing  
+- Model Evaluation  
+
+</div>
+</details>
+
+
+<details>
+<summary><strong>Queue Theory & Simulation</strong></summary>
+<div>
+
+**Overview:**  
+Simulated queue and inventory systems to optimize operational performance metrics.
+
+**Key Work:**
+- Modeled queue behavior and service efficiency in Excel  
+- Applied Monte Carlo simulation techniques  
+- Analyzed KPI trade-offs to support operational decisions  
+- Presented findings in a business-focused format  
+
+**Tech Skills:**
+- Microsoft Excel  
+- Monte Carlo Simulation  
+- Business Modeling  
+- KPI Analysis  
+
+</div>
+</details>
+
+
+<details>
+<summary><strong>WRF-Solar / Solar Irradiance Analysis</strong></summary>
+<div>
+
+**Overview:**  
+Supported renewable energy research by analyzing solar irradiance data using the WRF-Solar model.
+
+**Key Work:**
+- Assisted with data analysis and visualization for solar forecasting  
+- Identified optimization opportunities through statistical analysis  
+- Contributed to research-driven insights for renewable energy efficiency  
+
+**Tech Skills:**
+- Data Analysis  
+- Linux / Ubuntu  
+- Data Visualization  
+- Statistical Analysis  
+
+</div>
+</details>
+
+
+<details>
+<summary><strong>Integrated Science Project (ISPC)</strong></summary>
+<div>
+
+**Overview:**  
+Developed an automated agricultural solution combining robotics and applied science.
+
+**Key Work:**
+- Designed a robot to automate irrigation and nutrient delivery  
+- Optimized irrigation scheduling to reduce manual labor  
+- Collaborated across disciplines to deliver an end-to-end solution  
+- Received the **ISPC 2019 Science Integrators Award**  
+
+**Tech Skills:**
+- Robotics  
+- Automation  
+- Applied Science  
+- Systems Integration  
+
+</div>
+</details>
+
+
+<div class="card">
+
+## 🤝 Volunteer & Leadership
+
+<details>
+<summary><strong>Student Volunteer — Big Brothers Big Sisters of America</strong></summary>
+<div>Supported youth mentorship initiatives through guidance and consistent support.</div>
+</details>
+
+<details>
+<summary><strong>Career Fair Volunteer — NJIT</strong></summary>
+<div>Supported career fair operations, guiding students and recruiters for smooth flow.</div>
+</details>
+
+<details>
+<summary><strong>Secretary — Business Masterminds Club (NJIT)</strong></summary>
+<div>Coordinated communications and supported professional development initiatives.</div>
+</details>
+
+<details>
+<summary><strong>Treasurer — Model United Nations Club (NJIT)</strong></summary>
+<div>Managed budgeting and tracking for events and conferences.</div>
+</details>
+
+<details>
+<summary><strong>Team Leader — SUPW Project</strong></summary>
+<div>Led teaching initiatives for underprivileged children through structured sessions.</div>
+</details>
+
+</div>
+
+<div class="card">
+
+## 📚 Publications
+
+- **Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models** (NJIT, Dec 2024)
+
+</div>
+
+<div class="card">
+
+## 🔗 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/praptikansagra  
+- **Email:** pkansagra06@gmail.com  
+- **Phone:** +1 (973) 307-7872  
+- **Art Instagram:** https://www.instagram.com/instant.art.vibes  
+
+</div>
