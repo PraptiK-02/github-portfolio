@@ -9,16 +9,10 @@ title: Prapti Kansagra
 description: BI/DA Analyst | Data Science | AI/ML | SQL • Python • Power BI • Tableau
 theme: jekyll-theme-minimal
 
+
 logo: /Headshot.jpg
 show_downloads: false
 
-markdown: kramdown
-
-plugins:
-  - jekyll-seo-tag
-
-email: pkansagra06@gmail.com
-linkedin: https://www.linkedin.com/in/praptikansagra/
 
 
 
