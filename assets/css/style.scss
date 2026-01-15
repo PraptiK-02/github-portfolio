@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
 
-/* pull in custom css */
+/* Load custom overrides after theme */
 @import url("custom.css");
