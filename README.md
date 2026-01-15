@@ -277,35 +277,18 @@ flows during critical operations.
 
 
 
-<link rel="stylesheet" href="assets/css/custom.css">
-
-<table>
-<tr>
-<td width="180">
-<img src="Headshot.jpg" width="160" style="border-radius:18px" />
-</td>
-<td>
-
-# Prapti Kansagra  
+# Prapti Kansagra
 **BI/DA Analyst | Data Science | AI/ML**
 
 Turning complex, real-world data into scalable, explainable insights — dashboards, KPIs, and predictive modeling that leadership can actually use.
 
-<i>“Generosity compounds—what you give to others lifts you higher in return.”</i>
-
-<a class="btn" href="assets/docs/PraptiKansagra-Resume.pdf">📄 Resume</a>
-<a class="btn" href="https://www.linkedin.com/in/praptikansagra">🔗 LinkedIn</a>
-<a class="btn" href="mailto:pkansagra06@gmail.com">✉️ Email</a>
-
-</td>
-</tr>
-</table>
+**Resume:** (add your resume link here if you have one)  
+**LinkedIn:** https://www.linkedin.com/in/praptikansagra  
+**Email:** pkansagra06@gmail.com  
 
 ---
 
-<div class="card">
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming & Data:** Python (Pandas, NumPy, scikit-learn), SQL, R  
 - **Machine Learning / AI:** Supervised Learning, Model Evaluation, Explainable AI  
@@ -314,317 +297,228 @@ Turning complex, real-world data into scalable, explainable insights — dashboa
 - **Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn  
 - **Tools:** Git/GitHub, Jupyter, VS Code, Linux/Ubuntu, Jira  
 
-<span class="pill">SQL</span><span class="pill">Python</span><span class="pill">Power BI</span><span class="pill">Tableau</span><span class="pill">Excel</span><span class="pill">Power Automate</span>
+---
 
-</div>
-
-<div class="card">
-
-## 💼 Professional Experience
+## Professional Experience
 
 <details>
 <summary><strong>Business Data Analyst Intern (AI/ML-Focused) | Thaddeus Resource Center</strong></summary>
 <div>
-
-- Built ML-ready datasets across sources to support predictive analytics  
-- Automated reporting and reduced manual effort using Python and Power Automate  
-- Created stakeholder-ready dashboards in Power BI / Tableau  
-- Partnered cross-functionally with leadership, HR, tech, and operations teams  
-
+  <ul>
+    <li>Built ML-ready datasets across multiple sources to support predictive analytics and forecasting.</li>
+    <li>Developed reports and dashboards (Power BI / Tableau) to share trends with non-technical stakeholders.</li>
+    <li>Reduced manual reporting by automating workflows using Python and Power Automate.</li>
+    <li>Led cross-functional discussions with stakeholders across leadership, HR, tech, and operations to align analytics with strategic goals.</li>
+  </ul>
 </div>
 </details>
 
 <details>
-<summary><strong>Career Development Peer Assistant (Data Insights) | NJIT</strong></summary>
+<summary><strong>Career Development Peer Assistant (Data Insights) | New Jersey Institute of Technology (NJIT)</strong></summary>
 <div>
-
-- Supported reporting and analysis for student engagement and operations  
-- Helped improve tracking and coordination across departments  
-
+  <ul>
+    <li>Supported reporting and analysis related to student engagement and career outcomes.</li>
+    <li>Assisted with structured tracking and documentation to improve operational coordination across teams.</li>
+  </ul>
 </div>
 </details>
 
 <details>
 <summary><strong>Office Assistant / Desk Attendant (Operations) | NJIT Residence Life</strong></summary>
 <div>
-
-- Supported day-to-day operations, tracking, and structured record management  
-- Improved process consistency and operational workflow execution  
-
+  <ul>
+    <li>Supported operational tracking, documentation, and day-to-day workflow execution.</li>
+    <li>Improved process consistency by maintaining structured records and standardized trackers.</li>
+  </ul>
 </div>
 </details>
 
 <details>
 <summary><strong>Mathematics Tutor | NJIT</strong></summary>
 <div>
-
-- Delivered personalized tutoring and learning support  
-- Strengthened problem-solving and communication through one-on-one coaching  
-
+  <ul>
+    <li>Delivered personalized tutoring to clarify complex mathematical concepts and strengthen problem-solving.</li>
+    <li>Supported exam preparation and consistent learning progress through one-on-one coaching.</li>
+  </ul>
 </div>
 </details>
 
-</div>
+---
 
-<div class="card">
-
-## 📂 Projects
+## Projects
 
 <details>
 <summary><strong>Customer Churn Analysis</strong></summary>
 <div>
-
-**Overview:**  
-Analyzed customer behavior to identify key drivers of churn and deliver actionable retention strategies for a subscription-based business.
-
-**Key Work:**
-- Identified churn drivers including contract type, tenure, monthly charges, and payment method  
-- Cleaned, transformed, and validated customer data for accurate analysis  
-- Built insights and recommendations to improve customer retention and revenue stability  
-- Delivered a concise executive-style summary for non-technical stakeholders  
-
-**Tech Skills:**
-- SQL (data extraction, joins, validation)  
-- Python (Pandas, NumPy)  
-- Excel (analysis, summaries)  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-
+  <p><strong>Overview:</strong> Analyzed customer behavior to identify key drivers of churn and delivered actionable retention strategies.</p>
+  <ul>
+    <li>Identified churn drivers including contract type, tenure, monthly charges, and payment method.</li>
+    <li>Cleaned, transformed, and validated customer data for accurate analysis.</li>
+    <li>Summarized insights and recommendations to improve retention and revenue stability.</li>
+  </ul>
+  <p><strong>Tech Skills:</strong> SQL, Python (Pandas, NumPy), Excel, EDA, Data Visualization</p>
 </div>
 </details>
-
 
 <details>
 <summary><strong>Flight Data Analysis Pipeline</strong></summary>
 <div>
-
-**Overview:**  
-Built a scalable data pipeline to process and analyze multi-year aviation datasets using distributed computing frameworks.
-
-**Key Work:**
-- Processed flight data from 1987–2008 using Hadoop and MapReduce  
-- Built ETL workflows to aggregate operational and performance metrics  
-- Validated and structured large datasets for reliable analysis  
-- Enabled scalable analytics for downstream reporting and insights  
-
-**Tech Skills:**
-- Hadoop & MapReduce  
-- AWS (EC2, S3)  
-- Python  
-- SQL  
-- ETL Pipeline Design  
-
+  <p><strong>Overview:</strong> Processed multi-year aviation datasets using distributed frameworks to enable scalable analysis.</p>
+  <ul>
+    <li>Processed aviation datasets (1987–2008) using Hadoop and MapReduce.</li>
+    <li>Built ETL workflows to aggregate operational metrics for analysis and reporting.</li>
+    <li>Designed workflows to support scalable processing and repeatable analytics.</li>
+  </ul>
+  <p><strong>Tech Skills:</strong> AWS (EC2, S3), Hadoop, MapReduce, Python, SQL, ETL</p>
 </div>
 </details>
-
 
 <details>
 <summary><strong>Explainable AI Research</strong></summary>
 <div>
-
-**Overview:**  
-Developed interpretable machine learning models with a focus on transparency, fairness, and stakeholder trust.
-
-**Key Work:**
-- Built classification and regression models using supervised learning techniques  
-- Evaluated model performance and feature importance  
-- Applied Explainable AI methods to improve interpretability  
-- Communicated technical findings in business-friendly language  
-
-**Tech Skills:**
-- Python  
-- scikit-learn  
-- Pandas  
-- Explainable AI Techniques  
-- Model Evaluation  
-
+  <p><strong>Overview:</strong> Developed interpretable machine learning models with a focus on transparency and trust.</p>
+  <ul>
+    <li>Built classification and regression models using supervised learning techniques.</li>
+    <li>Evaluated model performance and feature importance to improve interpretability.</li>
+    <li>Communicated results clearly for non-technical audiences and decision-making.</li>
+  </ul>
+  <p><strong>Tech Skills:</strong> Python, scikit-learn, Pandas, Matplotlib/Seaborn, Model Evaluation, Explainable AI</p>
 </div>
 </details>
-
 
 <details>
 <summary><strong>Chess Games Dataset Analysis</strong></summary>
 <div>
-
-**Overview:**  
-Analyzed historical chess game data to predict match outcomes and identify performance patterns.
-
-**Key Work:**
-- Built predictive models to estimate game outcomes  
-- Addressed class imbalance using SMOTE  
-- Performed feature engineering to improve model performance  
-- Visualized patterns and insights across player and game attributes  
-
-**Tech Skills:**
-- Python  
-- Logistic Regression, Random Forest, Gradient Boosting  
-- Feature Engineering  
-- Data Visualization  
-
+  <p><strong>Overview:</strong> Predicted chess game outcomes using supervised learning and feature engineering.</p>
+  <ul>
+    <li>Applied models such as Logistic Regression, Random Forest, Gradient Boosting, and XGBoost-style approaches.</li>
+    <li>Handled class imbalance using SMOTE and improved performance through feature engineering.</li>
+    <li>Created visualizations to analyze game patterns and results.</li>
+  </ul>
+  <p><strong>Tech Skills:</strong> Python, Feature Engineering, SMOTE, Model Training, Data Visualization</p>
 </div>
 </details>
-
-
-<details>
-<summary><strong>New York Housing Market Prices</strong></summary>
-<div>
-
-**Overview:**  
-Analyzed housing market data to identify key drivers influencing property prices in New York.
-
-**Key Work:**
-- Explored relationships between location, size, pricing, and market trends  
-- Cleaned and prepared real-world housing datasets  
-- Improved predictive accuracy through feature analysis  
-- Designed dashboards to communicate insights clearly  
-
-**Tech Skills:**
-- Python  
-- Data Visualization  
-- Feature Analysis  
-- Dashboard Design  
-
-</div>
-</details>
-
-
-<details>
-<summary><strong>Healthcare Result Prediction Model</strong></summary>
-<div>
-
-**Overview:**  
-Built predictive models to estimate healthcare outcomes using patient data.
-
-**Key Work:**
-- Trained and evaluated multiple classification models  
-- Achieved high predictive accuracy using ensemble methods  
-- Improved preprocessing and validation workflows  
-- Assessed model results using confusion matrices and metrics  
-
-**Tech Skills:**
-- Python  
-- Logistic Regression, Random Forest, Decision Trees  
-- Data Preprocessing  
-- Model Evaluation  
-
-</div>
-</details>
-
-
-<details>
-<summary><strong>Queue Theory & Simulation</strong></summary>
-<div>
-
-**Overview:**  
-Simulated queue and inventory systems to optimize operational performance metrics.
-
-**Key Work:**
-- Modeled queue behavior and service efficiency in Excel  
-- Applied Monte Carlo simulation techniques  
-- Analyzed KPI trade-offs to support operational decisions  
-- Presented findings in a business-focused format  
-
-**Tech Skills:**
-- Microsoft Excel  
-- Monte Carlo Simulation  
-- Business Modeling  
-- KPI Analysis  
-
-</div>
-</details>
-
 
 <details>
 <summary><strong>WRF-Solar / Solar Irradiance Analysis</strong></summary>
 <div>
-
-**Overview:**  
-Supported renewable energy research by analyzing solar irradiance data using the WRF-Solar model.
-
-**Key Work:**
-- Assisted with data analysis and visualization for solar forecasting  
-- Identified optimization opportunities through statistical analysis  
-- Contributed to research-driven insights for renewable energy efficiency  
-
-**Tech Skills:**
-- Data Analysis  
-- Linux / Ubuntu  
-- Data Visualization  
-- Statistical Analysis  
-
+  <p><strong>Overview:</strong> Supported renewable energy research by analyzing solar irradiance data for forecasting insights.</p>
+  <ul>
+    <li>Assisted in improving model outputs through statistical and visual analysis.</li>
+    <li>Recommended optimization opportunities based on trends and evaluation results.</li>
+  </ul>
+  <p><strong>Tech Skills:</strong> Data Analysis, Linux/Ubuntu, Visualization, Statistical Analysis</p>
 </div>
 </details>
 
+<details>
+<summary><strong>New York Housing Market Prices</strong></summary>
+<div>
+  <p><strong>Overview:</strong> Analyzed housing market data to identify drivers of price changes and improve insight delivery.</p>
+  <ul>
+    <li>Cleaned and explored housing datasets to identify primary drivers of pricing behavior.</li>
+    <li>Improved predictive accuracy through preprocessing and feature analysis.</li>
+    <li>Designed dashboards to support decision-making and storytelling.</li>
+  </ul>
+  <p><strong>Tech Skills:</strong> Python, Data Visualization, Feature Analysis, Dashboarding</p>
+</div>
+</details>
+
+<details>
+<summary><strong>Queue Theory & Simulation</strong></summary>
+<div>
+  <p><strong>Overview:</strong> Simulated queue and inventory processes to understand KPI trade-offs and operational performance.</p>
+  <ul>
+    <li>Built simulation models using Excel to analyze throughput and waiting-time behavior.</li>
+    <li>Applied Monte Carlo methods to test KPI outcomes under different scenarios.</li>
+  </ul>
+  <p><strong>Tech Skills:</strong> Excel, Monte Carlo Simulation, KPI Analysis, Business Modeling</p>
+</div>
+</details>
+
+<details>
+<summary><strong>Healthcare Result Prediction Model</strong></summary>
+<div>
+  <p><strong>Overview:</strong> Built predictive models to estimate healthcare outcomes using cleaned and structured datasets.</p>
+  <ul>
+    <li>Trained models including Logistic Regression, Random Forest, and Decision Trees.</li>
+    <li>Improved preprocessing and evaluation workflows using confusion matrices and metrics.</li>
+  </ul>
+  <p><strong>Tech Skills:</strong> Python, Data Preprocessing, Classification Models, Model Evaluation</p>
+</div>
+</details>
 
 <details>
 <summary><strong>Integrated Science Project (ISPC)</strong></summary>
 <div>
-
-**Overview:**  
-Developed an automated agricultural solution combining robotics and applied science.
-
-**Key Work:**
-- Designed a robot to automate irrigation and nutrient delivery  
-- Optimized irrigation scheduling to reduce manual labor  
-- Collaborated across disciplines to deliver an end-to-end solution  
-- Received the **ISPC 2019 Science Integrators Award**  
-
-**Tech Skills:**
-- Robotics  
-- Automation  
-- Applied Science  
-- Systems Integration  
-
+  <p><strong>Overview:</strong> Built an automated robot to water crops and deliver nutrients in agricultural fields.</p>
+  <ul>
+    <li>Designed automation logic to improve irrigation scheduling and reduce manual labor.</li>
+    <li>Recognized with the <strong>ISPC 2019 Science Integrators Award</strong>.</li>
+  </ul>
+  <p><strong>Tech Skills:</strong> Robotics, Automation, Systems Integration</p>
 </div>
 </details>
 
+---
 
-<div class="card">
-
-## 🤝 Volunteer & Leadership
+## Volunteer & Leadership
 
 <details>
 <summary><strong>Student Volunteer — Big Brothers Big Sisters of America</strong></summary>
-<div>Supported youth mentorship initiatives through guidance and consistent support.</div>
+<div>
+  <p>Supported youth mentorship initiatives by helping students build confidence and academic engagement through consistent guidance.</p>
+</div>
 </details>
 
 <details>
-<summary><strong>Career Fair Volunteer — NJIT</strong></summary>
-<div>Supported career fair operations, guiding students and recruiters for smooth flow.</div>
+<summary><strong>Career Fair Volunteer — New Jersey Institute of Technology</strong></summary>
+<div>
+  <p>Assisted in organizing large-scale career fairs, guiding students and recruiters to ensure smooth operations and a professional experience.</p>
+</div>
 </details>
 
 <details>
 <summary><strong>Secretary — Business Masterminds Club (NJIT)</strong></summary>
-<div>Coordinated communications and supported professional development initiatives.</div>
+<div>
+  <p>Maintained meeting records, coordinated communications, and supported planning of academic and professional development initiatives.</p>
+</div>
 </details>
 
 <details>
 <summary><strong>Treasurer — Model United Nations Club (NJIT)</strong></summary>
-<div>Managed budgeting and tracking for events and conferences.</div>
+<div>
+  <p>Managed budgeting, expense tracking, and financial reporting to support responsible allocation of funds for events and conferences.</p>
+</div>
 </details>
 
 <details>
 <summary><strong>Team Leader — SUPW Project</strong></summary>
-<div>Led teaching initiatives for underprivileged children through structured sessions.</div>
+<div>
+  <p>Led teams visiting schools to teach underprivileged children, designing engaging sessions that strengthened learning and community connection.</p>
+</div>
 </details>
 
+---
+
+## Publications
+
+<details>
+<summary><strong>Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models (NJIT, Dec 2024)</strong></summary>
+<div>
+  <ul>
+    <li>Applied optimization and reinforcement-learning-based techniques to improve renewable energy forecasting pipelines.</li>
+    <li>Built scalable workflows for processing and evaluating model outputs.</li>
+  </ul>
 </div>
+</details>
 
-<div class="card">
+---
 
-## 📚 Publications
-
-- **Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models** (NJIT, Dec 2024)
-
-</div>
-
-<div class="card">
-
-## 🔗 Connect
+## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/praptikansagra  
 - **Email:** pkansagra06@gmail.com  
 - **Phone:** +1 (973) 307-7872  
-- **Art Instagram:** https://www.instagram.com/instant.art.vibes  
+- **Art Instagram:** https://www.instagram.com/instant.art.vibes
 
-</div>
