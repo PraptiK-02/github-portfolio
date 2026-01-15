@@ -275,167 +275,85 @@ flows during critical operations.
 --------------------------------------------------------------------------------------------------------------------
 -->
 
-<link rel="stylesheet" href="assets/css/custom.css">
 
-<div class="pk-wrap">
 
-<div class="pk-hero">
-  <img src="Headshot.jpg" alt="Prapti Kansagra">
-  <div>
-    <h1 class="pk-title">Prapti Kansagra</h1>
-    <div class="pk-sub">Data Scientist | AI/ML | Business Intelligence</div>
+# Prapti Kansagra
 
-Turning complex, real-world data into decisions — dashboards leaders actually use, pipelines that don’t break, and models people can understand.
+**Business Intelligence Analyst | Data Science | AI/ML | SQL • Python • Power BI • Tableau**
 
-<i>“Generosity compounds — give freely, grow steadily.”</i>
+Early-career Business Intelligence & Data Analyst with hands-on experience in data analytics, predictive modeling, workflow automation, and scalable data processing. Proven ability to translate complex datasets into clear, actionable insights that support leadership decision-making. Experienced working cross-functionally with stakeholders across HR, Operations, Marketing, and Technology teams.
 
-<div class="pk-links">
-  <a href="https://www.linkedin.com/in/praptikansagra">LinkedIn</a>
-  <a href="mailto:pkansagra06@gmail.com">Email</a>
-  <!-- <a href="https://www.instagram.com/instant.art.vibes">Art</a> -->
-</div>
+---
 
-<div class="pk-chiprow">
-  <span class="pk-chip">Python</span>
-  <span class="pk-chip">SQL</span>
-  <span class="pk-chip">Power BI</span>
-  <span class="pk-chip">Tableau</span>
-  <span class="pk-chip">AWS</span>
-  <span class="pk-chip">Hadoop/MapReduce</span>
-</div>
-  </div>
-</div>
+## 🔹 Core Skills
 
-<nav class="pk-nav">
-  <ul>
-    <li><a href="#skills">Skills</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#experience">Experience</a></li>
-    <li><a href="#volunteer">Volunteer</a></li>
-    <li><a href="#publications">Publications</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
-</nav>
-
-<section class="pk-section" id="skills">
-
-## Technical Skills
-
-**Programming & Query**
+**Data & Analytics**
+- SQL (data extraction, joins, validation)
 - Python (Pandas, NumPy, scikit-learn)
-- SQL (joins, CTEs, aggregations)
+- Exploratory Data Analysis (EDA)
+- Predictive Modeling & Feature Analysis
 
-**BI & Analytics**
-- Power BI (DAX, dashboards, KPI reporting)
-- Tableau (dashboards, storytelling)
-- Excel (advanced formulas, pivots, modeling)
+**Business Intelligence & Reporting**
+- Power BI
+- Tableau
+- Advanced Excel (PivotTables, Lookups, Automation)
+- KPI Tracking & Dashboard Design
 
-**Data Science**
-- Predictive modeling (classification, regression)
-- Feature engineering, model evaluation, validation
-- Explainable AI / model interpretation
+**Data Engineering & Automation**
+- ETL Pipelines
+- Power Automate
+- Hadoop & MapReduce (Foundational)
+- AWS (Foundational)
 
-**Data Engineering & Platforms**
-- ETL pipelines, workflow automation (Power Automate)
-- AWS (EC2, S3), Git/GitHub, Linux
-- Hadoop, MapReduce
+---
 
-</section>
+## 🔹 Professional Experience
 
-<section class="pk-section" id="projects">
+### Business Data Analyst Intern  
+**Thaddeus Resource Center (Nonprofit)** | Aug 2025 – Present  
+- Built predictive models in Python and Excel to estimate program success rates and support program expansion decisions  
+- Analyzed operational and program data to identify trends impacting outcomes and resource allocation  
+- Developed dashboards and reports using Power BI and Tableau for non-technical stakeholders  
+- Led cross-functional discussions with leadership, HR, technology, and operations teams as the primary analytics point of contact  
 
-## Projects
+### Career Development Peer Assistant  
+**New Jersey Institute of Technology (NJIT)** | Sep 2024 – May 2025  
+- Supported institutional reporting and analysis related to student engagement and career outcomes  
+- Collaborated with multiple departments to improve data tracking and operational processes  
 
-<div class="pk-grid">
+### Office Assistant  
+**NJIT – Office of Residence Life** | Jan 2023 – May 2025  
+- Supported administrative operations and reporting for a large residential organization  
+- Maintained structured records and operational trackers to improve workflow efficiency  
 
-<div class="pk-card">
-  <h3>Flight Data Analysis Pipeline</h3>
-  <p class="pk-meta"><b>Tech:</b> AWS, Hadoop, MapReduce, Python, SQL</p>
-  <ul>
-    <li>Processed multi-year aviation data (1987–2008) using distributed jobs.</li>
-    <li>Built feature aggregation outputs for scalable analysis + reporting.</li>
-    <li>Designed repeatable workflows to reduce reruns and debugging time.</li>
-  </ul>
-</div>
+---
 
-<div class="pk-card">
-  <h3>Explainable AI Modeling</h3>
-  <p class="pk-meta"><b>Tech:</b> Python, scikit-learn, Pandas</p>
-  <ul>
-    <li>Trained models and evaluated performance with clear decision-ready summaries.</li>
-    <li>Applied explainability methods to make model behavior stakeholder-friendly.</li>
-    <li>Produced visuals and narratives that translate model output into action.</li>
-  </ul>
-</div>
+## 🔹 Projects
 
-<div class="pk-card">
-  <h3>Chess Outcome Prediction</h3>
-  <p class="pk-meta"><b>Tech:</b> Python, Feature Engineering</p>
-  <ul>
-    <li>Built models (LogReg, tree-based) to predict match outcomes.</li>
-    <li>Improved signal with feature engineering + validation.</li>
-  </ul>
-</div>
+### Predictive Analytics & Explainable AI Research  
+- Built predictive models using Python and scikit-learn  
+- Evaluated model performance and feature importance to support interpretability  
+- Focused on translating technical results into business-friendly insights  
 
-<div class="pk-card">
-  <h3>New York Housing Market Analysis</h3>
-  <p class="pk-meta"><b>Tech:</b> Python, Visualization</p>
-  <ul>
-    <li>Identified price drivers and built a clean market narrative.</li>
-    <li>Improved predictive performance via preprocessing and feature work.</li>
-  </ul>
-</div>
+### Large-Scale Flight Data Analysis Pipeline  
+- Processed multi-year aviation datasets (1987–2008) using Hadoop and MapReduce  
+- Built scalable ETL pipelines for aggregating operational metrics  
+- Enabled data-driven insights through structured analysis and reporting  
 
-</div>
-</section>
+---
 
-<section class="pk-section" id="experience">
+## 🔹 Education
 
-## Experience
+**Bachelor of Science in Data Science**  
+Minor: Business  
+**New Jersey Institute of Technology (NJIT)**  
+GPA: 3.6 | Dean’s List (All Semesters)
 
-<div class="pk-card">
-  <h3>Business Data Analyst Intern (AI/ML) — Thaddeus Resource Center</h3>
-  <p class="pk-meta">Predictive modeling • BI reporting • Stakeholder communication</p>
-  <ul>
-    <li>Built ML-ready datasets across messy sources to support outcome prediction.</li>
-    <li>Delivered Power BI reporting for leadership decisions (trends, risk flags, program performance).</li>
-    <li>Automated recurring reporting using Python + Power Automate, reducing manual effort <b>35%</b>.</li>
-    <li>Led cross-functional check-ins with director, HR, tech, and operations to align metrics + delivery.</li>
-  </ul>
-</div>
+---
 
-</section>
+📫 **Contact**  
+- Email: pkansagra06@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/praptikansagra
 
-<section class="pk-section" id="volunteer">
 
-## Volunteer & Leadership
 
-<ul>
-  <li><b>Big Brothers Big Sisters:</b> youth mentorship support focused on consistency and confidence</li>
-  <li><b>NJIT Career Fair Volunteer:</b> supported high-traffic event operations and candidate flow</li>
-  <li><b>Business Masterminds Club (Secretary):</b> notes, coordination, communication</li>
-  <li><b>Model UN (Treasurer):</b> budgeting and expense tracking</li>
-</ul>
-
-</section>
-
-<section class="pk-section" id="publications">
-
-## Publications
-
-- <b>Enhancing Solar Irradiance Predictions Using Optimized WRF-Solar Models</b> (NJIT, Dec 2024)
-
-</section>
-
-<section class="pk-section" id="contact">
-
-## Contact
-
-- <b>LinkedIn:</b> https://www.linkedin.com/in/praptikansagra  
-- <b>Email:</b> pkansagra06@gmail.com
-
-</section>
-
-</div>
-
-- **Email:** pkansagra06@gmail.com
